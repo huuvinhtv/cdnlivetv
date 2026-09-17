@@ -1,0 +1,689 @@
+{
+  "channels": [],
+  "events": [
+    {
+      "title": "CF Montréal vs Nashville SC",
+      "status": "NS",
+      "startTime": "2026-10-24 17:30",
+      "streams": []
+    },
+    {
+      "title": "Avaí vs Botafogo-SP",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Columbus Crew vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-10-24 19:30",
+      "streams": []
+    },
+    {
+      "title": "Atlético Goianiense vs Novorizontino",
+      "status": "NS",
+      "startTime": "2026-10-24 19:30",
+      "streams": []
+    },
+    {
+      "title": "São Bernardo vs Vila Nova",
+      "status": "NS",
+      "startTime": "2026-10-24 19:30",
+      "streams": []
+    },
+    {
+      "title": "New York Red Bulls vs Inter Miami",
+      "status": "NS",
+      "startTime": "2026-10-24 21:30",
+      "streams": []
+    },
+    {
+      "title": "CRB vs Londrina",
+      "status": "NS",
+      "startTime": "2026-10-24 21:30",
+      "streams": []
+    },
+    {
+      "title": "Ponte Preta vs Fortaleza",
+      "status": "NS",
+      "startTime": "2026-10-24 21:30",
+      "streams": []
+    },
+    {
+      "title": "Orlando City vs New York City FC",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "DC United vs FC Cincinnati",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "Philadelphia Union vs New England Revolution",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "Atlanta United vs Chicago Fire",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "Houston Dynamo vs Minnesota United",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs San Jose Earthquakes",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "Sporting Kansas City vs Austin FC",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "Colorado Rapids vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-10-25 02:30",
+      "streams": []
+    },
+    {
+      "title": "Real Salt Lake vs St. Louis City SC",
+      "status": "NS",
+      "startTime": "2026-10-25 02:30",
+      "streams": []
+    },
+    {
+      "title": "San Diego FC vs Seattle Sounders",
+      "status": "NS",
+      "startTime": "2026-10-25 02:30",
+      "streams": []
+    },
+    {
+      "title": "Portland Timbers vs Charlotte FC",
+      "status": "NS",
+      "startTime": "2026-10-25 02:30",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles FC vs LA Galaxy",
+      "status": "NS",
+      "startTime": "2026-10-26 01:00",
+      "streams": []
+    },
+    {
+      "title": "América Mineiro vs Cuiabá",
+      "status": "NS",
+      "startTime": "2026-10-26 22:30",
+      "streams": []
+    },
+    {
+      "title": "Juventude vs Náutico",
+      "status": "NS",
+      "startTime": "2026-10-26 23:30",
+      "streams": []
+    },
+    {
+      "title": "Ceará vs Goiás",
+      "status": "NS",
+      "startTime": "2026-10-27 23:00",
+      "streams": []
+    },
+    {
+      "title": "Inter Miami vs FC Cincinnati",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "New York City FC vs Atlanta United",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "New England Revolution vs New York Red Bulls",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "Charlotte FC vs CF Montréal",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "Toronto FC vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "Atlético Tucumán vs Platense",
+      "status": "NS",
+      "startTime": "2026-10-29 00:15",
+      "streams": []
+    },
+    {
+      "title": "Nashville SC vs Philadelphia Union",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs Columbus Crew",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs Orlando City",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Minnesota United vs Sporting Kansas City",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Austin FC vs Real Salt Lake",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "St. Louis City SC vs Portland Timbers",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Vancouver Whitecaps vs San Diego FC",
+      "status": "NS",
+      "startTime": "2026-10-29 02:30",
+      "streams": []
+    },
+    {
+      "title": "Seattle Sounders vs Houston Dynamo",
+      "status": "NS",
+      "startTime": "2026-10-29 02:30",
+      "streams": []
+    },
+    {
+      "title": "San Jose Earthquakes vs Colorado Rapids",
+      "status": "NS",
+      "startTime": "2026-10-29 02:30",
+      "streams": []
+    },
+    {
+      "title": "Criciúma vs Ponte Preta",
+      "status": "NS",
+      "startTime": "2026-10-30 22:30",
+      "streams": []
+    },
+    {
+      "title": "Charlotte FC vs Orlando City",
+      "status": "NS",
+      "startTime": "2026-10-31 17:00",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs Philadelphia Union",
+      "status": "NS",
+      "startTime": "2026-10-31 18:00",
+      "streams": []
+    },
+    {
+      "title": "Columbus Crew vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-31 18:00",
+      "streams": []
+    },
+    {
+      "title": "New York City FC vs CF Montréal",
+      "status": "NS",
+      "startTime": "2026-10-31 18:00",
+      "streams": []
+    },
+    {
+      "title": "Sporting Kansas City vs FC Dallas",
+      "status": "NS",
+      "startTime": "2026-10-31 19:00",
+      "streams": []
+    },
+    {
+      "title": "St. Louis City SC vs San Diego FC",
+      "status": "NS",
+      "startTime": "2026-10-31 19:00",
+      "streams": []
+    },
+    {
+      "title": "Botafogo-SP vs Sport Recife",
+      "status": "NS",
+      "startTime": "2026-10-31 19:00",
+      "streams": []
+    },
+    {
+      "title": "LA Galaxy vs Austin FC",
+      "status": "NS",
+      "startTime": "2026-10-31 21:00",
+      "streams": []
+    },
+    {
+      "title": "San Jose Earthquakes vs Real Salt Lake",
+      "status": "NS",
+      "startTime": "2026-10-31 21:00",
+      "streams": []
+    },
+    {
+      "title": "Vila Nova vs Juventude",
+      "status": "NS",
+      "startTime": "2026-10-31 21:00",
+      "streams": []
+    },
+    {
+      "title": "Náutico vs Avaí",
+      "status": "NS",
+      "startTime": "2026-10-31 22:30",
+      "streams": []
+    },
+    {
+      "title": "Colorado Rapids vs Chicago Fire",
+      "status": "NS",
+      "startTime": "2026-11-01 01:30",
+      "streams": []
+    },
+    {
+      "title": "Londrina vs América Mineiro",
+      "status": "NS",
+      "startTime": "2026-11-01 19:00",
+      "streams": []
+    },
+    {
+      "title": "Nashville SC vs New York Red Bulls",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "Atlanta United vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "Vancouver Whitecaps vs Seattle Sounders",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "Cuiabá vs São Bernardo",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "Novorizontino vs Operário Ferroviário",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "New England Revolution vs Inter Miami",
+      "status": "NS",
+      "startTime": "2026-11-02 00:00",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles FC vs Minnesota United",
+      "status": "NS",
+      "startTime": "2026-11-02 01:30",
+      "streams": []
+    },
+    {
+      "title": "Portland Timbers vs Houston Dynamo",
+      "status": "NS",
+      "startTime": "2026-11-02 02:30",
+      "streams": []
+    },
+    {
+      "title": "Fortaleza vs Atlético Goianiense",
+      "status": "NS",
+      "startTime": "2026-11-02 19:00",
+      "streams": []
+    },
+    {
+      "title": "Athletic Club-MG vs Ceará",
+      "status": "NS",
+      "startTime": "2026-11-02 21:00",
+      "streams": []
+    },
+    {
+      "title": "Goiás vs CRB",
+      "status": "NS",
+      "startTime": "2026-11-02 23:30",
+      "streams": []
+    },
+    {
+      "title": "Botafogo-SP vs Londrina",
+      "status": "NS",
+      "startTime": "2026-11-06 22:30",
+      "streams": []
+    },
+    {
+      "title": "Operário Ferroviário vs Sport Recife",
+      "status": "NS",
+      "startTime": "2026-11-06 22:30",
+      "streams": []
+    },
+    {
+      "title": "Vila Nova vs Criciúma",
+      "status": "NS",
+      "startTime": "2026-11-06 23:30",
+      "streams": []
+    },
+    {
+      "title": "Cuiabá vs Juventude",
+      "status": "NS",
+      "startTime": "2026-11-07 00:30",
+      "streams": []
+    },
+    {
+      "title": "Avaí vs São Bernardo",
+      "status": "NS",
+      "startTime": "2026-11-07 19:00",
+      "streams": []
+    },
+    {
+      "title": "Novorizontino vs Fortaleza",
+      "status": "NS",
+      "startTime": "2026-11-07 19:10",
+      "streams": []
+    },
+    {
+      "title": "Inter Miami vs Charlotte FC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs Nashville SC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Philadelphia Union vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "New York Red Bulls vs Atlanta United",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "CF Montréal vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs Columbus Crew",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Orlando City vs New England Revolution",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "DC United vs New York City FC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Seattle Sounders vs Los Angeles FC",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Real Salt Lake vs LA Galaxy",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs Colorado Rapids",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Austin FC vs Portland Timbers",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "San Diego FC vs Sporting Kansas City",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Minnesota United vs San Jose Earthquakes",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Houston Dynamo vs St. Louis City SC",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Náutico vs CRB",
+      "status": "NS",
+      "startTime": "2026-11-08 00:30",
+      "streams": []
+    },
+    {
+      "title": "Athletic Club-MG vs Atlético Goianiense",
+      "status": "NS",
+      "startTime": "2026-11-08 19:00",
+      "streams": []
+    },
+    {
+      "title": "Ceará vs América Mineiro",
+      "status": "NS",
+      "startTime": "2026-11-08 22:15",
+      "streams": []
+    },
+    {
+      "title": "Goiás vs Ponte Preta",
+      "status": "NS",
+      "startTime": "2026-11-08 22:15",
+      "streams": []
+    },
+    {
+      "title": "New Zealand vs India",
+      "status": "NS",
+      "startTime": "2026-11-12 06:00",
+      "streams": []
+    },
+    {
+      "title": "Singapore vs Paraguay",
+      "status": "NS",
+      "startTime": "2026-11-13 12:00",
+      "streams": []
+    },
+    {
+      "title": "Qatar vs Australia",
+      "status": "NS",
+      "startTime": "2026-11-13 14:45",
+      "streams": []
+    },
+    {
+      "title": "Jordan vs Indonesia",
+      "status": "NS",
+      "startTime": "2026-11-13 18:00",
+      "streams": []
+    },
+    {
+      "title": "England U21 vs Portugal U21",
+      "status": "NS",
+      "startTime": "2026-11-13 19:30",
+      "streams": []
+    },
+    {
+      "title": "Colombia vs Chile",
+      "status": "NS",
+      "startTime": "2026-11-13 21:00",
+      "streams": []
+    },
+    {
+      "title": "Japan vs Brazil",
+      "status": "NS",
+      "startTime": "2026-11-14 10:15",
+      "streams": []
+    },
+    {
+      "title": "América Mineiro vs Avaí",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Atlético Goianiense vs Cuiabá",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "CRB vs Ceará",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Criciúma vs Novorizontino",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Fortaleza vs Vila Nova",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Juventude vs Botafogo-SP",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Londrina vs Náutico",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Ponte Preta vs Operário Ferroviário",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "São Bernardo vs Athletic Club-MG",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Sport Recife vs Goiás",
+      "status": "NS",
+      "startTime": "2026-11-14 19:30",
+      "streams": []
+    },
+    {
+      "title": "Banfield vs Boca Juniors",
+      "status": "NS",
+      "startTime": "2026-11-14 21:00",
+      "streams": []
+    },
+    {
+      "title": "New Zealand vs India",
+      "status": "NS",
+      "startTime": "2026-11-15 03:00",
+      "streams": []
+    },
+    {
+      "title": "Andorra vs Azerbaijan",
+      "status": "NS",
+      "startTime": "2026-11-16 13:00",
+      "streams": []
+    },
+    {
+      "title": "England U21 vs France U21",
+      "status": "NS",
+      "startTime": "2026-11-16 19:30",
+      "streams": []
+    },
+    {
+      "title": "Singapore vs Brazil",
+      "status": "NS",
+      "startTime": "2026-11-17 10:00",
+      "streams": []
+    },
+    {
+      "title": "Japan vs Paraguay",
+      "status": "NS",
+      "startTime": "2026-11-17 13:10",
+      "streams": []
+    },
+    {
+      "title": "Jordan vs Australia",
+      "status": "NS",
+      "startTime": "2026-11-17 18:00",
+      "streams": []
+    },
+    {
+      "title": "Chile vs Colombia",
+      "status": "NS",
+      "startTime": "2026-11-17 21:00",
+      "streams": []
+    },
+    {
+      "title": "Inter Milan vs Lazio",
+      "status": "NS",
+      "startTime": "2026-12-22 20:00",
+      "streams": []
+    }
+  ]
+}
