@@ -1,0 +1,2584 @@
+{
+  "channels": [
+    {
+      "name": ":NHL  11",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=%3ANHL++11&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb6e9/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNmU5OjE3OTEwOTk0MDAwODM6Y2RubGl2ZXR2LnR2OjE1MzA4Y2FkZjhkZjFkNDUuOTc5OTJlNDgwNzRhNzQ5ODk4Yzg1YzAyMzA5ZGRlZGQ2OGJkMTkzODYzNzFiOWNiY2RjNjNkM2RkNzgzNmJiOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-11.png"
+    },
+    {
+      "name": "ABC",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTEwOTk0MDAyMjI6Y2RubGl2ZXR2LnR2OjFmOWY1ODcwMGQ2YTdmZmMuNjkyODQxMzFmNzdiNTY4ODhjZDNmZGNlMmY3ODlhNmEwMDViZTYwMGFiYWNhNzZmOTVmODg3ZDJkYWY0YjI1Yw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/abc.png"
+    },
+    {
+      "name": "ACC Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ACC+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb355/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU1OjE3OTEwOTk0MDAzNjA6Y2RubGl2ZXR2LnR2OjEzMzI4Yzk0YmU2Zjg4OWEuNTI0MWExNWQxM2IwN2I5NmYwMzhmMjdiZWZiNzk0YTBkODNkODgxNWI0MmQzMTc2ZDA5MmVkOGI2M2RjZThiMQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/acc-network.png"
+    },
+    {
+      "name": "Abu Dhabi Sports 1",
+      "country": "ae",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Abu+Dhabi+Sports+1&code=ae&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb0e0/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMGUwOjE3OTEwOTk0MDA1MDI6Y2RubGl2ZXR2LnR2OjQ2MDg0NDEwY2VjZmU3NjAuMDdlMGYzMzNiNzBkNTA0YzNjOTg0MmM2YTJlMjY3NDlmMjRhNTMxM2YyZjNmNTM4NDkxODZmZGNiNjdhN2FhNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.png"
+    },
+    {
+      "name": "Altitude",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb57f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTdmOjE3OTEwOTk0MDA2NDI6Y2RubGl2ZXR2LnR2OmY3NTc5NmY1MTQ0ODRjNzUuODA1ZmIwZTM3MDNmNzdmM2RhNjYyYTRmYThlMDJlYzQxYmJhZTEzNDZiMjk3YTBlMTM2YjJlZTdiYTljNWMzNg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/altitude.png"
+    },
+    {
+      "name": "Arizona Diamondbacks",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arizona+Diamondbacks&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb630/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMwOjE3OTEwOTk0MDA3Nzk6Y2RubGl2ZXR2LnR2OmM4OGFhYzZjNzhjNWUyMTQuODU5NGFjODU0Yzc3YTVhN2U0MWYyOTZkNjY1M2E4MjZkMWIyNzk2NzE2ZTBiODI0ODNjYmVlZDUxZTY2MTk0ZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/arizona-diamondbacks.png"
+    },
+    {
+      "name": "Astro Cricket",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Astro+Cricket&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf242/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjQyOjE3OTEwOTk0MDA5MTg6Y2RubGl2ZXR2LnR2OjYxYmYxYjdjYzlkYzg2ZTAuYzhiNzQ5NzQxNzg4MDBjYjU1NDg2NjZlZDY1M2UwMTdlYTI3NDEzOTc5Y2M3MzAyOWQ2NDA2ZDZmODBmNDQ0NA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.png"
+    },
+    {
+      "name": "Atlanta Braves",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Atlanta+Braves&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb612/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEyOjE3OTEwOTk0MDEwNTY6Y2RubGl2ZXR2LnR2OmZkNTcwODkwYTMyYTY5ZmMuYzkzZWE0NzUzOTBlYTQzMTViOTVlMmFmZDU2OTYwYmNiYTRkYmMyNWU5ZmE0MjkzZDA4ZGQ5YzBhMzdhMDJmNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/atlanta-braves.png"
+    },
+    {
+      "name": "BBC",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb49b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDliOjE3OTEwOTk0MDExOTc6Y2RubGl2ZXR2LnR2OjEyNzc2OGNkMjFkYTM2NjYuZDMyZGQ2OWMzNmU4ZjM3ZTg5MWY5ZDI0MThkODYzMzk0MmE2YTc0ZmE3MDc4MjA5NWUyN2JhMzc5Mzg3OWI5Mg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bbc.png"
+    },
+    {
+      "name": "BBC Four",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC+Four&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc3cf/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2NmOjE3OTEwOTk0MDEzNDI6Y2RubGl2ZXR2LnR2OjU5OGI1ZTRiODEwNGI2YTguYjY2NGM5ZjAxN2ZhMWQ1YzY2NGZiZGQ2MDk5NzU3ZGRlN2VhZWE5NzJjNmE3YWMzZDUyMzdhMjViYjhjZjlhMw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-four.png"
+    },
+    {
+      "name": "BBC One",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC+One&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc379/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzc5OjE3OTEwOTk0MDE0ODA6Y2RubGl2ZXR2LnR2OjAzM2YzZmNmODEzZTdkYTkuMGI2NTU1OGVhOTkxNGY2YTJhNzFkN2QxNDgxMGI2M2JkNjUzYmQ3NTQwMjMwZTE4ZjQ1ODZmMmZkNTQ3MjNiNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.png"
+    },
+    {
+      "name": "BBC Three",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC+Three&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc3cc/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjM2NjOjE3OTEwOTk0MDE2MjA6Y2RubGl2ZXR2LnR2OmRlNjRjNDQ1MGEwMDA3ZjMuMmE0YzExYmJjNDZkY2QxYTlhNDY1NzU5YmFlNjY3YjA4Yzk5NzQ2OGFkZTU2YjVjNzk5ZGUxOTM2N2ZlNmUwNg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-three.png"
+    },
+    {
+      "name": "BBC Two",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=BBC+Two&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc37d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzdkOjE3OTEwOTk0MDE3NTc6Y2RubGl2ZXR2LnR2OjU1Y2Y0MGE2NjI2ZGEyODEuMDU5NzQ4ZTM0YWM3ZTk3YmMwYjQ2YWJmYjkwZjM3MmQxNGQxODNiYmY1NGY1MjA5MDc3MDU0NzRlNmRjODJkMQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two.png"
+    },
+    {
+      "name": "BET",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=BET&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb200/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjAwOjE3OTEwOTk0MDE4OTY6Y2RubGl2ZXR2LnR2OjI2NTkyM2RlNDdhZTUzODIuM2VkZWFlNDMzNmViZWEwNTk2N2E3ZmZlNjQxNjFlZjc4MjY5OWY4NDgzZTQyY2FkM2Q2N2I0NGY1NzMxMWFkNg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/bet.png"
+    },
+    {
+      "name": "Baltimore Orioles",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Baltimore+Orioles&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJmOjE3OTEwOTk0MDIwMzM6Y2RubGl2ZXR2LnR2OmIyYzAyM2IzMTViZjE4MDkuNzgwMzM3OTlhYzQzMTAxZjcyMDgyMmFhZTVjNWMyMTQ2YzgwZWRhOThiYjRjZDk5NDJhYjQxYjJhZmFmM2Y5MA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/baltimore-orioles.png"
+    },
+    {
+      "name": "Benfica TV",
+      "country": "pt",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Benfica+TV&code=pt&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd43c/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDNjOjE3OTEwOTk0MDIxNzA6Y2RubGl2ZXR2LnR2OjA1OGVhYWY5MDUwMDAzYmMuOGE4YjMxZjg0YjFlMGQwNjA4NGM0MTZjZjBlZTM3NGQ2ZWQ5ZTg5NWE1ZDhkZTFiYjZiZjEzOGNiNzljOWIxNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/portugal/benfica-tv.png"
+    },
+    {
+      "name": "Boston Red Sox",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Boston+Red+Sox&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJlOjE3OTEwOTk0MDIzMTA6Y2RubGl2ZXR2LnR2OmExZWU4NzE4NDY3Y2FlYTcuMjU5ZWZmMDJmNGVlZjlmOWZmMjQ1ODVlZmNjMzAwOTgxZjFhYWE2ZjFlYzliNGFhYzRkZWM5MjUxOGQ5Y2FkNA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/boston-red-sox.png"
+    },
+    {
+      "name": "CBS",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=CBS&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTEwOTk0MDI0NDU6Y2RubGl2ZXR2LnR2OmYxNzE3Y2UwOWE2MjNkNDEuNDRlYzI5YzZmNTBhMGExNDg1ZjM0MjU2Zjg1MDIzOWNlY2VmZGMzNjJiZWM0OWZjMzI2NGE5NzE4NmU3MjI2Nw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs.png"
+    },
+    {
+      "name": "CBS Sports Golazo",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=CBS+Sports+Golazo&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb598/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTk4OjE3OTEwOTk0MDI1OTk6Y2RubGl2ZXR2LnR2OjYwOGJkMWU3NjZhMGQ5NmEuNjhhYTRhODk0ZWYzNjFkMDY3Y2Y1YzM4NTdkYTE3NTRmOTI5M2IxOGEzZDMxNTc2MmFkMDAzMGZmYTRjNzY4MQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-sports-golazo.png"
+    },
+    {
+      "name": "CNBC",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb492/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkyOjE3OTEwOTk0MDI3NTM6Y2RubGl2ZXR2LnR2OmJhMDhiMzdkMGI5OWY3MmYuYjg5OGFmNzdkZGRjYTcwYThhNWNhZjQyMjdjZGFmZjBiYTZlYzVkYjM4NmJiMTNkMTdkNTVmYTcyMGVjMDUzMw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cnbc.png"
+    },
+    {
+      "name": "CNN",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=CNN&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3OTEwOTk0MDI4OTM6Y2RubGl2ZXR2LnR2OmZmYmY2NTJkOTJiM2FjM2UuNzk5ZjNhNTJhNWIwNjA1ZDg3Mjg2YjYyMjY5NTlkMTRiZGFkOWI3ZjVmNjc0N2QxY2U0ZjIyMDg1N2QyZmY1Mg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cnn.png"
+    },
+    {
+      "name": "Canal",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd163/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMTYzOjE3OTEwOTk0MDMwMzE6Y2RubGl2ZXR2LnR2OjYzOTkxNTBjMzFhOTc1NDguOWM0MjEwNGI2OTU1YTljNmYyNmVmODg2YTAyYTk0NzBjY2Y4MmMxZTFhMTViODNkZWU0YjcxN2QwNmMwOWM3Nw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/canal.png"
+    },
+    {
+      "name": "Canal Foot",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal+Foot&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1ef/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWVmOjE3OTEwOTk0MDMxNjg6Y2RubGl2ZXR2LnR2OjhkZWUyZDNkMGY0MTAxYWYuYzQ2M2E1ZDFhZDljNWU3Y2I5NzZkYjlkZjc4ZDZhZWEzNTYzNmEzNTEzNzcyN2ZlYzNmNGVjMjE5MjE4N2VhMQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/canal-foot.png"
+    },
+    {
+      "name": "Canal Sport 4",
+      "country": "pl",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal+Sport+4&code=pl&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd306/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzA2OjE3OTEwOTk0MDMzMjA6Y2RubGl2ZXR2LnR2OmVhZjhjNTEzMzRmZDczZDcuNmQ4OTc0NzA5ODhhZTdmOGZhZGYzZWExOGMxZWFmNWY5NjZlNWE3NzE4MTY0MmYzOWE2OTkxYjZkZDEwOWY3MA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-4.png"
+    },
+    {
+      "name": "Canal Sport 5",
+      "country": "pl",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal+Sport+5&code=pl&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd307/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzA3OjE3OTEwOTk0MDM0NzI6Y2RubGl2ZXR2LnR2OjQwZjllOWJjMzlkNjBhZTEuZTY0ZmNmMDI1Yjg1NTUzYWU2NGU0NmU1NGE3NzJiOTRlZDBkOWRiMjM0ZGYzMDJmYTE4N2E5YmJhNTgyMmNjNg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5.png"
+    },
+    {
+      "name": "Canal Sport360",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal+Sport360&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1f7/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWY3OjE3OTEwOTk0MDM2Mjk6Y2RubGl2ZXR2LnR2OjVlZWQ2NGZmZmNmZmVmOTQuNzhjZjNkZTQ0NjBlZjY4ZTNlZmQ2ZGQyY2FmYTI1NDlhMDQ1YWYxMjA1NmMzODY0NmUxOTEzMWEyZWFmNjU0MA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/canal-sport360.png"
+    },
+    {
+      "name": "Chicago Cubs",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago+Cubs&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb631/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjMxOjE3OTEwOTk0MDM3ODg6Y2RubGl2ZXR2LnR2OjFiYTg5ZDdmOWFiNzgxZTIuYTA3MGFkNzVhZWQzOTNkZDdjZTI2YTUyMDM1ZGMzOWZjOTQ4MGYyOGU1NjIyODAyYjJiNzA2OGRjNzkyY2I4Zg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-cubs.png"
+    },
+    {
+      "name": "Chicago Sports Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago+Sports+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb311/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzExOjE3OTEwOTk0MDM5MzA6Y2RubGl2ZXR2LnR2OjhiMDc3ZWNmNmMxMWE3YWMuMDg2ZTNkN2M0ZmEzMTNhYTE2YjcwNWVkYzE0YzNlZTdmMWUxMmFlOGM4NzU0M2VhYjFkN2Y2MWFjYjFlNzc3Yg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-sports-network.png"
+    },
+    {
+      "name": "Cincinnati Reds",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cincinnati+Reds&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb617/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjE3OjE3OTEwOTk0MDQwNzI6Y2RubGl2ZXR2LnR2OmE1YTQ2ZjEwMzU2M2ViZTIuNDBhYTczMjE3MDQxMTM4OWNkM2ZjMzdkMmI4ODZjN2ViNjkzOTRmNDViZTJjODM4NTk5NWE5OGU1Y2ExZGJlOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cincinnati-reds.png"
+    },
+    {
+      "name": "Cinemax",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cinemax&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd314/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzE0OjE3OTEwOTk0MDQyMTA6Y2RubGl2ZXR2LnR2OjRlN2VmY2UzM2M0MGRhMTAuN2I3NWM3ZjU4NmNkYWI2NDc4OWE1NGE1Mzk2MTI1MmExM2E0MjQ0NzljNDAxNzU1MjZlMjBkNDEyZTJiOTZiMA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cinemax.png"
+    },
+    {
+      "name": "Cleveland Guardians",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cleveland+Guardians&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJjOjE3OTEwOTk0MDQzNTg6Y2RubGl2ZXR2LnR2OmQzODQ3NjE2YTZjOWYwY2YuZjJiMDBmMjRmYzg5Mzg5MjVjMDdiNDljYjg4NWI0ODRjMWViYTA0ZjNhNWM5YzIxMTk4ODI4NTJlNzUwNmYzZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/cleveland-guardians.png"
+    },
+    {
+      "name": "Colorado Rockies",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Colorado+Rockies&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb62a/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjJhOjE3OTEwOTk0MDQ1MTI6Y2RubGl2ZXR2LnR2OmU4NmE3ZTY1YmYwODc4NjguNThhNTY0ZGRlMjkxYzZjNjFkZDg2YzMwMjRjMzE5YmE4NDMzNTg1M2M3ODE3Y2RkNmY2MTBiOWM3ZjNjOTE3Ng",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/colorado-rockies.png"
+    },
+    {
+      "name": "DAZN 1",
+      "country": "de",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN+1&code=de&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3OTEwOTk0MDQ2NTA6Y2RubGl2ZXR2LnR2OjA5YmU0MmZkMmQxNjMyMTIuMDZjZDdhNDgzYjdhNzI2YTI5ZDlhNjhmMzNmZGI2ZTY0MDAxZjg0M2M5NTM0MWUwZjk3ZWM2NjRmNGY4MjY4NA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-1.png"
+    },
+    {
+      "name": "DAZN 1",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN+1&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd447/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDQ3OjE3OTEwOTk0MDQ3OTU6Y2RubGl2ZXR2LnR2Ojg4N2IzMDJlNDMyMDg5ODAuMmNjNDAwMzUzN2Y2YmYxNzU5YjdiMmRmY2YwOGU4YWJjYjM5NzliNjA0MTY2NzFlYWM2NTM3MjRmNDI4MzcyZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/dazn-1.png"
+    },
+    {
+      "name": "DAZN 2",
+      "country": "de",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN+2&code=de&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTEwOTk0MDQ5Mzg6Y2RubGl2ZXR2LnR2OjQ3NDhkZDU5ZTMzY2UwYzAuMzk1N2JkYmUwYTVhNzc5NzYxNzc3MzI4MmMwZGQwNjkzNDNkMTFhYmIxNTAwYmM4MTdjOWIyYTI5MmVmODQ1ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2.png"
+    },
+    {
+      "name": "DAZN F1",
+      "country": "es",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN+F1&code=es&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc87a/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODdhOjE3OTEwOTk0MDUwNzU6Y2RubGl2ZXR2LnR2OmFlOTVlZWM0MDMxN2QxMTcuYjY1YWQ2NTU5OWVjZDI1OGJkZjZiNTM2ZGFkMGNhODlhYjlmMTFhMjRkOTU5MjU0ZWE4MTM0YWYyZDZhYzdmNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-f1.png"
+    },
+    {
+      "name": "Detroit Tigers",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Detroit+Tigers&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb629/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI5OjE3OTEwOTk0MDUyMTI6Y2RubGl2ZXR2LnR2OjZhZmMxZWY1Y2UxODExNDcuYTY3NTc2OTZhYjg0Yzk5YTZmYjNmMTg4ZWZkNzkzMTNiZWE2ZTQ3MzFiOTdkMmU5OGRjZWI1YWE4ODExZmUwOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/detroit-tigers.png"
+    },
+    {
+      "name": "Discovery Channel",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Discovery+Channel&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc485/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjNDg1OjE3OTEwOTk0MDUzNTU6Y2RubGl2ZXR2LnR2OjhjZDU4NDgyYzM0MTgxZjAuYWFhYmQxMWM5M2U5ZDUxMzkzMDNjYzRmZjA2YzFhODYzODNiZDE2YzM1OGNhYzY2YjBhZDU1NDU3MDAyNzMxNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/discovery-channel.png"
+    },
+    {
+      "name": "Disney Channel",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Disney+Channel&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3OTEwOTk0MDU0OTM6Y2RubGl2ZXR2LnR2OjQ4YjMzZTQyNWI1ZjJiNWMuOTRiNWNmZjNkY2ViNGRlMmIwMDk5YTVlM2M5Mjc1MGRjMzExY2Q4ZGMzODc1ODE5MDgwOGJhN2E4NmMxYmZhYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/disney-channel.png"
+    },
+    {
+      "name": "ESPN",
+      "country": "br",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=br&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwOTk0MDU2MzU6Y2RubGl2ZXR2LnR2Ojk5N2IyY2YyYjdjMWVkZTMuNjkxNjkxYTkyMDZlYmZjMjQ2ZTEyYTM3MDU2MGNmYTE0MjVmODZiMTMzMDVkYmViZDA1OGIzOGFlZDRhYTNkNg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn.png"
+    },
+    {
+      "name": "ESPN 2",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+2&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3OTEwOTk0MDU3OTU6Y2RubGl2ZXR2LnR2OjFkODViMDhlYjg4NjRlMDEuYTgyMWYyOGJlMjBlNmFjMTIzMDM3MDBkZjg2ZDRlYzliNDkzM2NiOWE4N2QxM2IwNWFjNjRhOWE3ZGJmYmE1Zg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2.png"
+    },
+    {
+      "name": "ESPN 2",
+      "country": "br",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+2&code=br&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce884/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg0OjE3OTEwOTk0MDU5Mzc6Y2RubGl2ZXR2LnR2OjQ0ZjM3ZTE0YWJhNzNiOGYuNTVhYTBlYzQ2M2ViNzM1YzQ0NTQ1OTdkZDM1NWMwYjg2NWYwN2QwY2MyMzIwZmI0OGY0NjllZWI5NGEyZDg1OQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.png"
+    },
+    {
+      "name": "ESPN 2",
+      "country": "mx",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+2&code=mx&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf3c9/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmM2M5OjE3OTEwOTk0MDYwODE6Y2RubGl2ZXR2LnR2OmQxNjkzODQxMDFjYjQwYmMuZGIxMjkwNDQyZTk2OGYwMGI2YTVlZTUyYTkyZmU4Zjg0Y2JlYjFkZWM5Mjk0NGI1YmNjMzNkNjY1ZWZlZTUwYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-2.png"
+    },
+    {
+      "name": "ESPN Deportes",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+Deportes&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRjOjE3OTEwOTk0MDYyMjQ6Y2RubGl2ZXR2LnR2OjgwMDY4MzRjYmNjZTE2ZGEuMmFlNGMyOTkwNzU4NmUxZTU0MmZmYmEzYjRmYmU5Mjg5OTg2NzExNjkzNDYxOTQ3NWM3OTlmYzM2Y2Y0ZmE4Nw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.png"
+    },
+    {
+      "name": "ESPN News",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+News&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5a0/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWEwOjE3OTEwOTk0MDYzNjk6Y2RubGl2ZXR2LnR2OmQ0MTlkYWU2OTkzNWY5NzQuZTQzOGQ1NDZhMjA1ODU1MTFjNmEwOWIyNWIyNjBiNzIzYzE4ZjBhMmNjZTdmYTIyMTZmYWQ5NTc0OTFmNmU3NA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-news.png"
+    },
+    {
+      "name": "ESPN U",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+U&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5a2/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWEyOjE3OTEwOTk0MDY1MjI6Y2RubGl2ZXR2LnR2OmFkYTNhM2ZjZTQ2YjRiN2QuMmFiNTY5ZGRiOGYwMGUxOTBlYmNjOTFmMGRkY2YxMzNkNjNlOGNlODBhZDU3NTYwYThmMDljYzY2ODJmNjcwZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-u.png"
+    },
+    {
+      "name": "ESPN+ USA",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%2B+USA&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3OTEwOTk0MDY2Nzg6Y2RubGl2ZXR2LnR2OmY4NzRmZmQxZDMzODdkNjcuZDEyNjFmODk5YTQ4MWYxOGY4M2M5YTc2YWU2ZTAzYjZiMGIyNWY5YTY5MTRiZTQ3YTkwZjEwYmY1MDI4YTg4ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-usa.png"
+    },
+    {
+      "name": "Euro Sport 1",
+      "country": "bg",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro+Sport+1&code=bg&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf1e/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjFlOjE3OTEwOTk0MDY4MjM6Y2RubGl2ZXR2LnR2OmZlYTI3MDQzMDkzNGI3ZjUuYzExNTg0ZTFkMGQxYzE2ZmI0MjdmMjg0ZTU4MWMwMmIxYWM3YjNjZjYwYzEzYTEwYTE3MjUzNDA2ODViNDRjNA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/bulgaria/euro-sport-1.png"
+    },
+    {
+      "name": "FOX",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3OTEwOTk0MDY5NjA6Y2RubGl2ZXR2LnR2OmFlZDhmNTA4Y2M3NmNhMzcuYzUzZjI3ODgxNTU3OWU5NmQyYTQyODI3MDY2NTI1ODYyODE4YzUwYjVkNzI4ODEwYmQ1YWIxZWU1YjQwZGEwMQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.png"
+    },
+    {
+      "name": "FOX Deportes",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX+Deportes&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c1/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMxOjE3OTEwOTk0MDcxMDQ6Y2RubGl2ZXR2LnR2OjE4ZWM2NDNjZDMwNGY1NDcuNmZkYjU5OWQwNzg2ZTE2OTUxZmNjZThkMjZjY2YxZTgwYTAxNDJiZmMzODA3MGY0MDI5NzEwYTE5NzE5NzY0MQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.png"
+    },
+    {
+      "name": "FOX News",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX+News&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb224/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjI0OjE3OTEwOTk0MDcyNzE6Y2RubGl2ZXR2LnR2OjJjMTZlYjg0MDNkYWNjNDAuYjJlZTIwMDhlOWYyMDc3OTA5MmE0ZmJkZjNmMGMwNmJkNWQ4YjU2YjMwNzNhYmEzODk0YWE1MTlmOGI1YTAxZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.png"
+    },
+    {
+      "name": "FOX Soccer Plus",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX+Soccer+Plus&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cbe68/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZTY4OjE3OTEwOTk0MDc0Mjk6Y2RubGl2ZXR2LnR2OjM0OTA4ZjQzMWQ2MWQwNzUuYmY5ZjI4NzJmMWVkNTUzYjUyZWJjYmI3YTBkYzM1NTU1YjViMjUxMzUzOGJjMjlhNDJiYjkzMDI4MGIxM2ZiOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.png"
+    },
+    {
+      "name": "FOX Sports 1",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX+Sports+1&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTEwOTk0MDc1NjY6Y2RubGl2ZXR2LnR2OjhjM2RkMmRhNWQwYWZhYmMuZTA3ZjJlMThjMWUyZGE5MzQ4NmIzMThkNTZkZWM0ZTY2MzBjOWZiZWQxMTAwOWE0MWFjMTExZTdlMWIxYTYxZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1.png"
+    },
+    {
+      "name": "FOX Sports 2",
+      "country": "mx",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX+Sports+2&code=mx&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3OTEwOTk0MDc3MTM6Y2RubGl2ZXR2LnR2OjE1ZjdmMWI1YTBiMmY3NGUuYmY0ZTJiZWJhMzA3MDA3NmUwYmIxZTcwZTFhM2UyZDgzZmJjYjgwOTkyMWJmNmQxMmY1ZjcyNWIwNDRmYTc4Zg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/mexico/fox-sports-2.png"
+    },
+    {
+      "name": "Fox Sports 501",
+      "country": "au",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox+Sports+501&code=au&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf1f8/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMWY4OjE3OTEwOTk0MDc4NTQ6Y2RubGl2ZXR2LnR2OjNhMWRlMzgyZDU3ZDA3ZmEuODcyMGJlNGE4MDZmMzA2N2JmY2ZlYjg3NDFhNDI1MDc0NjQ2MjJkYzE1YzJmNDUwZjA5ZjM0NGNmODFmMzM4ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-501.png"
+    },
+    {
+      "name": "Fox Sports 502",
+      "country": "au",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox+Sports+502&code=au&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf20e/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjBlOjE3OTEwOTk0MDc5OTA6Y2RubGl2ZXR2LnR2OjVhODFjOGEwZWQ5ZTIzZGIuMmYxYTRlYjAzNGJjZTEyNDFjZDUyYWE5Zjg4ZDRlNzZmMDk0YmY0MDY0N2M3MmZlM2RjODk2ZWYwZDk3ZDBmYw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-502.png"
+    },
+    {
+      "name": "Fox Sports 503",
+      "country": "au",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox+Sports+503&code=au&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf22f/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjJmOjE3OTEwOTk0MDgxMjg6Y2RubGl2ZXR2LnR2OjYyNjA5MzcyZDZjODkwMjEuZjY3NmJiYjFlMTI1ZGYzMWVjOWFjOTU0ODZmZjQ0Y2YxNWYwNDM4NjQ3M2U3MDQwYTc1YjM0OTBhNDMxMGQ4OQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-503.png"
+    },
+    {
+      "name": "GOLF TV",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=GOLF+TV&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cc/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNjOjE3OTEwOTk0MDgyNjY6Y2RubGl2ZXR2LnR2OmY3NDJjYjZjZjY3MjdlYjQuMzQ1MWNhNDMxMjU3ODRiYTJhZGZlODNjOTIwYjBkZjg5MmIwM2MwNWMyZDYzOGY5MDBiZmUzMDU3N2FjMzQzZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.png"
+    },
+    {
+      "name": "HBO",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd347/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzQ3OjE3OTEwOTk0MDg0MDQ6Y2RubGl2ZXR2LnR2OmJlOTAxMmYwMGI3NzIwMjMuNjQwZmRhYjFmOTNiZGE1ZGMwMTk3YjBlNDQ3YmNlOGQ5ZjZlMjFhMjhiZjYwZTQ2ZTQ0YjEwNWM5MDhjNTg5ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/hbo.png"
+    },
+    {
+      "name": "Hallmark",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Hallmark&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb232/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjMyOjE3OTEwOTk0MDg1NjI6Y2RubGl2ZXR2LnR2OjM5NzI1NDg4MTczNGQ5NTMuNzk1YzAzYTdjN2IyZDA3ZTI5ZDRiMTI3ZGUxNWE2ZTQ1ZTEzZjJlYWI3YTdhZDU5ZWY1ZjExZjQ4ZDdhYjQ1YQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/hallmark.png"
+    },
+    {
+      "name": "History",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=History&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3a7/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2E3OjE3OTEwOTk0MDg3MDE6Y2RubGl2ZXR2LnR2OjcxNmZlZmJlYjAyZWI0ZGMuY2Y5NjFjZjA1MjM0ZmE4ZWFjYWYzNzhhNWFiZjFmNGU0Y2MzZTg3MWVhYzM2ZTRmN2EyZjNkMGUwZTIyNTljYw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/history.png"
+    },
+    {
+      "name": "ITV 3",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV+3&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc38d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzhkOjE3OTEwOTk0MDg4NDI6Y2RubGl2ZXR2LnR2OjVkMjI2YTkzMzE5NjcwMTcuZTg3YmI0MWNhM2M4YzJmNjQ0NWMyYjUyZjAzZmZiZjU4Y2Y4NTg1ZWY3NzJiMjI5ZGQzODZiNWVjZWYxMjU3Ng",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-3.png"
+    },
+    {
+      "name": "Lifetime",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Lifetime&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb247/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ3OjE3OTEwOTk0MDg5ODY6Y2RubGl2ZXR2LnR2OjQ3ODNjMDJkNGRmMDA4ODcuYjgwYzYxN2YyN2VmZWU0YjYwYzg3NWViYWIwYTQ5OTNmOTQ1NjIxN2RhNDk5NmEzOWRmZmY2ZGFiNzI5OWMxYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/lifetime.png"
+    },
+    {
+      "name": "MAX",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=MAX&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce74b/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzRiOjE3OTEwOTk0MDkxMjU6Y2RubGl2ZXR2LnR2OjJlNmNiMjhjMmJiOWYyYzIuZmI2ZDA4NjIwMGMzZDI3NjRmNmY4NTcxNDUyNWYwODQwMjRhOTFlODQyYTRiZjJlYTVhM2ZkMjJmYjkwNmJlYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/max.png"
+    },
+    {
+      "name": "MLB Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=MLB+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3OTEwOTk0MDkyNjI6Y2RubGl2ZXR2LnR2OmE5NWY2ODdmMWI1ZWJkMDMuOGQyYjU4YTVkNjkyY2M1NTc4ZDlmM2JkOWYxMDU3ZjQwZGJkOTM5Y2UxMTJkMWIzYzZmNjcwOWMwYWM2NGFhZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.png"
+    },
+    {
+      "name": "Milwaukee Brewers",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Milwaukee+Brewers&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb613/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjEzOjE3OTEwOTk0MDk0MDE6Y2RubGl2ZXR2LnR2OjE5NzExMTVhMmM0ZjJjNTEuNTU0ZGVjZjAwM2M4MDg3MzljYTNkYTE1MzQ2M2I1OWE1NDA5OWFiNDVkZjc2ZGRjYzMzOTI4MTUwOGZkODU4Zg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/milwaukee-brewers.png"
+    },
+    {
+      "name": "NBA TV",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA+TV&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5d3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWQzOjE3OTEwOTk0MDk1Mzg6Y2RubGl2ZXR2LnR2OjlhM2RlODFkMmJiMDNmMDAuODRiMjQ2Y2IxYWU3MWE0NjkyYTE3NmYxYTM0MTRlNzM5OWM5MjZjNTU2MDI5OGVkZDYxYjNjMzcwZjIwNmQ2Mg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv.png"
+    },
+    {
+      "name": "NBC",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3d1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3OTEwOTk0MDk2NzU6Y2RubGl2ZXR2LnR2OjIzNmYzZTczNGQ4YTgxN2UuODQ4YzdkODJiZjAyNWFkMWIxZGU0MzJiYjk3MTY4NmE2YjIyZWQzYTU2NmM4YmMzYmIwNDZmMGRiZGJmZjAwOQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc.png"
+    },
+    {
+      "name": "NBC Universo",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC+Universo&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb25a/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjVhOjE3OTEwOTk0MDk4MTQ6Y2RubGl2ZXR2LnR2OjNiNTEyZmZiOTQwZTRjNDIuMmZiNWI2ODE1MzNjMTVkYWJjN2I4MTViZmU2NzcwN2IyMTQ2NTZkMDExNWVlOGZlNDUzYmY1NDNjYzQ1MTMwYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-universo.png"
+    },
+    {
+      "name": "NESN",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NESN&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5dc/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWRjOjE3OTEwOTk0MDk5NTE6Y2RubGl2ZXR2LnR2Ojc2OTUyNmI4NDkyOWY5NWMuNGFmOTZiMTg4NThiYmE4OTYyOWI1ZjNkNTgwOWMyMWMxNzZhYzc4ZWExN2U2YjBmOWJiM2FmNDg1OTIwMzEzZg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.png"
+    },
+    {
+      "name": "NFL Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NFL+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb65d/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjVkOjE3OTEwOTk0MTAwODg6Y2RubGl2ZXR2LnR2OjRiNDk0MDYxMTY1YWU1OTkuMGU4NWUyZDhhNWJmMjQxZGY5OTk4Y2M3NDY1YTE0OWQ5OTUxOGYxNTdjMDJmYzdmMmIyNzg4ZTExNjcxZWRhYg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network.png"
+    },
+    {
+      "name": "NHL Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb69d/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjlkOjE3OTEwOTk0MTAyMjY6Y2RubGl2ZXR2LnR2OjA2MjY4Zjk4YWE5NjY0OTMuZjNkOGFhYjQ2YTBkMjBhODhhZDU1ODk0YWE5Y2UyMjQxZDBiOTEyMTExNDY1NjFhNzY1ODg4MDBhNDkyZTczYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-network.png"
+    },
+    {
+      "name": "NHL UHD US",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL+UHD+US&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb260/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjYwOjE3OTEwOTk0MTAzNjc6Y2RubGl2ZXR2LnR2OmYwNWUwMjE5MGE1NWQxMTQuNWQ2YWI2NDcxMzIwZmY5ZTQ0Y2Y4OGE5NmM1YTE5ODM2NDY2ZjI1YzQ5Y2RkMzdkNTlhOWZjOWNkYzZjOTZjOQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-uhd-us.png"
+    },
+    {
+      "name": "National Geographic",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=National+Geographic&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc47e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjNDdlOjE3OTEwOTk0MTA1MDc6Y2RubGl2ZXR2LnR2OjBiNmYyODViMDczMDg3ODYuYmU5ODJlNmMwODdkNTc1YmE3ODdjNzJlMzMyNjY0NDA0MjNhYzg3MTc5Y2RiNDUyOWU2ZjhkMTQ1Y2ViMjBkNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/national-geographic.png"
+    },
+    {
+      "name": "New York Mets",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=New+York+Mets&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb625/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjI1OjE3OTEwOTk0MTA2NTg6Y2RubGl2ZXR2LnR2OjI1MDExNzRiOGQ5ODQ5MGEuNWRjNTZjMDRhZDE1MzU3YWYzY2YyOTZjYjAzYzM4NWU1YzVkMDNiYWFlMTdhODEyZTA1ZWM1MzIxZWZlYzVlNA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/new-york-mets.png"
+    },
+    {
+      "name": "New York Yankees",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=New+York+Yankees&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb623/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIzOjE3OTEwOTk0MTA3OTc6Y2RubGl2ZXR2LnR2OjU5YjIyNzhiYTc3YmNiYjAuNjRiODRiMjllMzUyNjYwYzNkYTRlZWUzNTgyZDE1Y2FhNDI0ODMxNjU0NjZlZmExZGE2OGEzMmYzNzgxNDMzMA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/new-york-yankees.png"
+    },
+    {
+      "name": "Nickelodeon TV",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nickelodeon+TV&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb413/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDEzOjE3OTEwOTk0MTA5Mzg6Y2RubGl2ZXR2LnR2OjVlMTRmODMyYjVhNjdmN2EuOTA0NjA5YzBjZGQ3ZmZjNjU1ZWVmNmUxYzhlN2Y1ZjZmYTcyNjY0ZjU0NTMzM2YwMmE1NDBiZTU5OGVkMTRhMw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/nickelodeon-tv.png"
+    },
+    {
+      "name": "Oakland Athletics",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Oakland+Athletics&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb622/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjIyOjE3OTEwOTk0MTEwNzQ6Y2RubGl2ZXR2LnR2OmVjZTRlYThmNzA2NjFkYWEuZmQwOWYxOTUxN2NmMmVmYzEzZjMzZjBjYzc5MTE1NDU0YTlmZTk2NjJkYjM1YTgyNjhlY2EwZTY1NThhNmNhZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/oakland-athletics.png"
+    },
+    {
+      "name": "Premier Sports 1",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier+Sports+1&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTEwOTk0MTEyMTA6Y2RubGl2ZXR2LnR2OjlmMjFmNDdlMDUyZTkxNDMuN2I3YmI0NGI0MjEyOTQwOGMyNWZjOWI2MzU0ZDIwN2Q0N2Q2ZGJlMDk1ZmQ1YjdiY2NkZjI4ZmEzOGIwYjdjNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.png"
+    },
+    {
+      "name": "RDS",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc162/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTYyOjE3OTEwOTk0MTEzNDc6Y2RubGl2ZXR2LnR2OmRhZGFmZjA1YjM2MTU2YWIuNDMzYjY3ZjIzMzBmMTM5MThkMDUxYzYzZGUwNDM1ZTA2YmJhYmFjMWIzYzQ1ZTAyNDZiYTBkNTNiNzkzMThjZg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/rds.png"
+    },
+    {
+      "name": "RMC Sport 1",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC+Sport+1&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d2/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQyOjE3OTEwOTk0MTE0ODU6Y2RubGl2ZXR2LnR2OjgyYzJmZTFjZTUwMmE0YzEuYjA3MzVkNWU0NDQxMzA4ZmM5NThmMDdhMzBkN2JjZTgyZjY3YjkzNDA2YjYzNGRkOGRiZjA4MjUyZTNhZDZmMA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.png"
+    },
+    {
+      "name": "RMC Sport 2",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC+Sport+2&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d6/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQ2OjE3OTEwOTk0MTE2MzQ6Y2RubGl2ZXR2LnR2OjRlMDM1YTE0NGVlMjRhMjEuOTQ5MDI5MzU2MTc5MzNlNWU4MTEyZTBkN2Q5NmY1ODAyODIxNzNlMDBmZjhiNjkwNTdlYzI2NTUzMjBlYzZmMg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-2.png"
+    },
+    {
+      "name": "SEC Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=SEC+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3bb/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2JiOjE3OTEwOTk0MTE3NzA6Y2RubGl2ZXR2LnR2OmQ5MDZlODUxNjQ0OTBjOWQuODcwOTQyM2NhNzNkNGY2YTgyMThjYjcwZjI2NjE4NjQ3YzU0NDM5OWE3ZDQxNjQzYzc2NmM3M2E1YmUzNjdmYw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sec-network.png"
+    },
+    {
+      "name": "San Diego Padres",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=San+Diego+Padres&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb61e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFlOjE3OTEwOTk0MTE5MDY6Y2RubGl2ZXR2LnR2OjJmN2U1ZmM3ZjIyZTQ4ZjIuZjQwNmQ3ZTViNzI0NjcxOTcyYTkxNmIxOGU1MGJjYzA1NTJjYjg0OWE0Y2U1YjM0MDY2ZDRkNDU2YTA1OGE3Zg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/san-diego-padres.png"
+    },
+    {
+      "name": "Showtime",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Showtime&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb465/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDY1OjE3OTEwOTk0MTIwNDQ6Y2RubGl2ZXR2LnR2OjY2NjI5MzczNGIzMjdlMjkuOTE5ODM0ZjgyYWQzYmU1MTY4MTRhOTA3NjEwM2U2NGVkYjJlYzUxOWY0YWI0NDA3ZDdiMTM0ODc5ZDBhMzQ0ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/showtime.png"
+    },
+    {
+      "name": "Sky Sport 5",
+      "country": "at",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sport+5&code=at&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccd46/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZDQ2OjE3OTEwOTk0MTIxODc6Y2RubGl2ZXR2LnR2OjM4ZTk2YzYzOTRiMDQ0ZWEuMzhjODkzM2NmZjMxNTRjNzllYjFkZjkwMTkyZjIwNTVmMTA0NjUzOWI2YjE2ZjgyZDRkNjAwYTM4YTE5ZjBkNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-5.png"
+    },
+    {
+      "name": "Sky Sport Bundesliga 5",
+      "country": "de",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sport+Bundesliga+5&code=de&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2IyOjE3OTEwOTk0MTIzMjM6Y2RubGl2ZXR2LnR2OmI3YjA1YWU5ZmNjYzFhMDQuNmUyY2Y5YThiOTgyNjI5ZTBkNzVlNzcwOWUzNTUyYTM5MzQ3NzA4NzMxM2Y5NjhmOTkxMDgyOGVmMDU2ZjI3NQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.png"
+    },
+    {
+      "name": "Sky Sport Golf",
+      "country": "it",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sport+Golf&code=it&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaf0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWYwOjE3OTEwOTk0MTI0NjE6Y2RubGl2ZXR2LnR2OjU5YWU5MjhjZGM5Zjc1NDcuZTkyYmVkNjY2MzM4ZTFiMzExODMyMmFjZThkNGU4MTU1NTZkMTIwZTMzY2EzMTI2MjU3ODE2Y2E0OThjMjE3MQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-golf.png"
+    },
+    {
+      "name": "Sky Sport Top Event",
+      "country": "de",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sport+Top+Event&code=de&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae6/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU2OjE3OTEwOTk0MTI2MDY6Y2RubGl2ZXR2LnR2OjQxNTQ4N2FlODQ3MzY2OGIuNWRiM2IzZGVlNTM5NzgxYzkxZDBjZTU5NTc1OWJlNTg5NjgzZTRhYjA1OWY5N2QxM2QyM2E2NWY4MTBhZjA5Mg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.png"
+    },
+    {
+      "name": "Sky Sports Arena",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Arena&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc324/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI0OjE3OTEwOTk0MTI3NDM6Y2RubGl2ZXR2LnR2Ojg0ZGMyN2ZhZWEyYWVkMGEuZmZlNmEyNTUzZTA3MTg5MDlhYjM1NmRlZmQ0ZTYxMDc5NWMxZmVkNzU4Y2U2MjZkNGZkMDY3NmU2NmEwNDViMw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-arena.png"
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Cricket&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTEwOTk0MTI4Nzk6Y2RubGl2ZXR2LnR2OjEwN2Q4NDIyY2FkYTA5NDYuYWIyMmFhNDhlYTNmNjQ0MTQzZWEyMmU0ZjYzODBhMjRlODVjN2YzZGM5ZWZjYTc3MzAwNWM3YmYxMmYyY2VmMg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket.png"
+    },
+    {
+      "name": "Sky Sports F1",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+F1&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTEwOTk0MTMwMzA6Y2RubGl2ZXR2LnR2OjhjZjA1N2UyODk5MzM3ZmUuOWU5MjIwNTQwMmQyOWQyN2I0OTljNjMwOThhNzRhMTJmZjk2MTE4ZDAzOGYzY2Y4Y2M5MjZlMmJjNjY1MTIxMA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1.png"
+    },
+    {
+      "name": "Sky Sports Football",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Football&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTEwOTk0MTMxNjY6Y2RubGl2ZXR2LnR2OjY2ZTQyMDVjNWQ4NjY5OTkuYzkxZTk3MjJmNWYwMmEzOGFiNjMwYjEyMjJkY2EzM2EyNTlhNzU5NWMxYjRiZDk5NTY5ZjAzYjAwZDMyZGRkOQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football.png"
+    },
+    {
+      "name": "Sky Sports Golf",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Golf&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTEwOTk0MTMzMDQ6Y2RubGl2ZXR2LnR2OmYxOGE5MWI1Nzc0NGFmNjkuZDk0ZjAzMThkMTNkY2M1M2Q1NzljMjBjNzQ4Y2UwOGEzMzJiNzUzZDY3N2Q0ZjBmZTkzZDVjMjcxYzU5NzRhOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf.png"
+    },
+    {
+      "name": "Sky Sports Main Event",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Main+Event&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTEwOTk0MTM0NDE6Y2RubGl2ZXR2LnR2OjA2MzllYjU3NjA2Mzg4YjkuZTJhMjMwNGNlOGYyMTEwNjdjNjgxY2ViMTE3ZWUwM2RhOTc5NzUzOTEzZWE4MThmYThhMDIwYmQxNTI0YzlmYg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event.png"
+    },
+    {
+      "name": "Sky Sports Mix",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Mix&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTEwOTk0MTM1Nzg6Y2RubGl2ZXR2LnR2OjEzZDFkNDVmMTVmNGI0ZTUuMmUzOGI2Y2ZiYWYyMmIyNjU0MGU3MTU1Mzk4ZGZkYWZmYTNjZDNmY2NkNTdjNTNmMjQ1Y2NlMTFhNmQyM2U3OA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix.png"
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Premier+League&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc33d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNkOjE3OTEwOTk0MTM3MTU6Y2RubGl2ZXR2LnR2OjE1YWVkNmFjNTdkYmFhNTQuYmE2NGY4ZTA3ZGM1NjM5NTQ5YmNkNjJmYmY0MWNkN2ZkODhmZWY2OWY0NzE4YTUzZjU0Y2RiNGYwNWU1ZmNmYw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-premier-league.png"
+    },
+    {
+      "name": "Sky Sports Tennis",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky+Sports+Tennis&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEwOTk0MTM4NTI6Y2RubGl2ZXR2LnR2OjRiNzAxYTNjNjc2NDg4YjEuYjkxOTRkOTU3OTk1NzI3YTgwMmI4MjEyZjA2MjAxZTI3ZDc5NjI3Y2U0MDQ3YTEzM2M3MzE0NjZmY2E1YjNhNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis.png"
+    },
+    {
+      "name": "Sport 1",
+      "country": "il",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+1&code=il&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5fb/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWZiOjE3OTEwOTk0MTM5OTc6Y2RubGl2ZXR2LnR2OjFjZjFmYmE0YzEzY2EzZjYuMGIxY2ZmODljNmVhYzhlMzFjYWYzMzRiNTlmMTExMTBkYmQyMWQ3MWQ4M2ZmOWRhYmJmMmJjMTU2NDIyMmQ1NQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1.png"
+    },
+    {
+      "name": "SportsNet New York",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet+New+York&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3OTEwOTk0MTQxMzQ6Y2RubGl2ZXR2LnR2OmMyM2RlNzhlODljYjdhOTUuYjdlM2Y4ZDc5M2M1YjQ5ZWI2YTA2NGRjZmNkOWE1NTQ1M2E4MGYzNzA2MWM0ZTE5NDk1MjA5M2Y1YjA2YTFkMQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york.png"
+    },
+    {
+      "name": "Sportsnet 360",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet+360&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTEwOTk0MTQyNzE6Y2RubGl2ZXR2LnR2OmYxYTE5NjRiODZkNzBjMTcuNDc5ODc1YmU0ZTVkZTY2OWZkYWFhM2JmMzM5NDE4ZjgxMWZiYzEwYzMxODcyM2JiZmFmOGZjOTg3YzczNjQ0OQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.png"
+    },
+    {
+      "name": "Sportsnet East",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet+East&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTEwOTk0MTQ0MTg6Y2RubGl2ZXR2LnR2OjIxY2FiMmNiZDUyZDhlYmMuODNkOTA0OWU5NjE2OTA3ZjA0Y2Q4ZjJhYjVmMTQwZmRlMmE1OTc1NTMwNTI2YjlhODQzMDcxNGRkYjBlMGI3ZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.png"
+    },
+    {
+      "name": "Sportsnet One",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet+One&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTEwOTk0MTQ1NTc6Y2RubGl2ZXR2LnR2OmU5YWJlMzE2YTgwM2E5ZDQuM2FiNjk5NTU5YTE2ZTYzMTNiZmU2MmEzYmI2ZWEwMjAwNjRjNjY4NTBhYzEyYjUzMDFhNjBmZGNkZThjNzVmMA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.png"
+    },
+    {
+      "name": "Sportsnet West",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet+West&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTEwOTk0MTQ3MDU6Y2RubGl2ZXR2LnR2OjUwNGI5OGI5OWQyYWI3NDguODc0NWJlYzk3MGE5ZjRiNzhlN2RmMWJkODJiNDZjMTkzMjJkM2NlZGFmOGZhNTdmOTRkZjIxNDhmZTViMTk1ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.png"
+    },
+    {
+      "name": "Stan Sport 3",
+      "country": "au",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Stan+Sport+3&code=au&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d7181d8192bb76f76fa/playlist.m3u8?token=NmEyODhkNzE4MWQ4MTkyYmI3NmY3NmZhOjE3OTEwOTk0MTQ4NDI6Y2RubGl2ZXR2LnR2OmE5OTI3NTUyMGM1NjNhNWMuM2EyMWUwYzUyNzBiZTIyMTdkYWY1M2JlMjc3MjNiNjhlODZhYWFkZWYxYjRhNDU4ZjFhNjljNGViM2NjYThkZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-3.png"
+    },
+    {
+      "name": "Stan Sport 7",
+      "country": "au",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Stan+Sport+7&code=au&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf3d8/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmM2Q4OjE3OTEwOTk0MTQ5ODc6Y2RubGl2ZXR2LnR2OmU1ZTE5MTI5ODEyOGY4YzYuZjIxM2I3OWQ4NWI3NzFhYTdmMjM2NGFiNDAzNTRhMGM4OWMxZmM0Y2JhMjRmYzQ5NDgyMThlNmU4ZjVjYjJlZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-7.png"
+    },
+    {
+      "name": "TBS",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TBS&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb294/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjk0OjE3OTEwOTk0MTUxMjQ6Y2RubGl2ZXR2LnR2OjRmN2U3YmE2ZTIzMWI0M2MuNGZjMzA3MzYzMzU5YjUzM2IxM2ZlYTZkNWI3MThlNTUwMzYxODcwYTVmMjI5MjM2YWI3ODE5MWNkNjQwZmM3OA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tbs.png"
+    },
+    {
+      "name": "TLC",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TLC&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb29d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjlkOjE3OTEwOTk0MTUyNjE6Y2RubGl2ZXR2LnR2OmNmN2E4OGJlYWVmMDAzN2MuMzQ0MmI0MThmYjc3ZTczZGM5YTZmNjQxNTJjMTZhMDEwZmQzOGQ1YTU4ZTNkNWU4YzU5OWZiOGE4YzA4Mjg5Zg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tlc.png"
+    },
+    {
+      "name": "TNT",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTEwOTk0MTUzOTg6Y2RubGl2ZXR2LnR2OjE0ZTNlOWEwYmU3NjM4ZTEuN2ViZGY4ZjYyYjZjMzk1MDFlZjBlYTJlYzA3NWMwYjljZTg2ZGEzOTFiNmY3YzgzYjc5N2Y0NWQyZjQwMzM1ZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.png"
+    },
+    {
+      "name": "TNT Sports 1",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT+Sports+1&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTEwOTk0MTU1NTA6Y2RubGl2ZXR2LnR2OjE3MjkyOGQyZDk1N2UzYTUuYTYwZTgxOTdhNThmMTFlZWQ4NzAwMTk3ZmJhYWVmNmQzY2I2ZDdhOTMxN2I2MDlkNmVmNmQxNzZjMGVjMjdkZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1.png"
+    },
+    {
+      "name": "TNT Sports 2",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT+Sports+2&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTEwOTk0MTU2ODk6Y2RubGl2ZXR2LnR2OjAxNDYyNDg1NGMxNzE1ZjMuMjM0ZjExM2JiNmU2OWFkMjQ1N2YzZTBkYzhiZTE5MjBmMTNlMzhkOWIzZjY3NTNjODhlZTExN2NjYmJiNzE1ZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2.png"
+    },
+    {
+      "name": "TNT Sports 3",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT+Sports+3&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTEwOTk0MTU4Mjc6Y2RubGl2ZXR2LnR2OmMyNGViOTJjYmMyNWI1YzguNzNjYjliOWE1NWU1OTE2YjEzOWQzYmU1MDg2MDg4MTYzOWNiMjQxMTUxYjc1M2IzMTk1ZTczOTYxZjhkZmVkNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-3.png"
+    },
+    {
+      "name": "TNT Sports 4",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT+Sports+4&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3OTEwOTk0MTU5NjU6Y2RubGl2ZXR2LnR2OjcwODA3ODE4NWY0MWRmZDAuOGIxODcwNzgyZDAxNjVlZWZlYTEzNmIwNWI1Y2NlNzZkMmNhNzFmMTIxNGNlN2M2YjA5YzU4ZGUwNTg5ZDdhMw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4.png"
+    },
+    {
+      "name": "TSN 1",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+1&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTEwOTk0MTYxMDU6Y2RubGl2ZXR2LnR2OmM4MTMyNGY3YTI2M2JhZWEuYTJlZTIyZTE5M2Y1YWIxYWEzOWUyYjQ3MWI1NWNkYmQ1MWEwZTcxODY3Y2NlNjI5YTRhYjUwMDljNWY4NjJlYw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-1.png"
+    },
+    {
+      "name": "TSN 2",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+2&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3OTEwOTk0MTYyNDI6Y2RubGl2ZXR2LnR2Ojk3NDdjN2RiM2UxZDhhYmUuY2UyZDc0MmRhNzk4YzBlMTI1NGM0NGUzYjYzODdkZWY4NGExNDMyYTEzZDY2ODAyNjhmYjJhMDUzOThhZWNlNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-2.png"
+    },
+    {
+      "name": "TSN 3",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+3&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTEwOTk0MTYzOTE6Y2RubGl2ZXR2LnR2OjUxNGE5NDQ4MmZhMjdhYmIuNTU0YTk4MjExMjA5ZDRlY2I4NWJiMjUxMTdmZWNkNzcwZWY0Nzk3MWQ4NDg2MjNiZTk5NGE4NzVmZjEyYjUwMg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-3.png"
+    },
+    {
+      "name": "TSN 4",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+4&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3OTEwOTk0MTY1Mjk6Y2RubGl2ZXR2LnR2OjkxYjU1MDM2YTdhOWE4MDcuM2VmYjJmNTM4MGZhMDBkMGQ3NTcxODY2NjMzMzJmMjY4NjQ1M2FjMWE3MjNkZDYwMGY4ZTQwOWIwMDk2OWJhNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-4.png"
+    },
+    {
+      "name": "TSN 5",
+      "country": "ca",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN+5&code=ca&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc179/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc5OjE3OTEwOTk0MTY2NjQ6Y2RubGl2ZXR2LnR2OjI4NzY5MDNiNzBjMDg3YmMuOTgyNGI5YWYwNzkzYjJhOGUwMDZhN2I1YWY4YzlmNDE1NTA0MmNmN2IzODViNWNmZjk2MWZhNjQ3MTljYzk0NA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.png"
+    },
+    {
+      "name": "TV ONE",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV+ONE&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb406/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDA2OjE3OTEwOTk0MTY4MDg6Y2RubGl2ZXR2LnR2Ojk2ZTg3MzRjN2ZkOTgzZDcuNzczZGU3ODVjNjRjNWJhNjYyMzhiMGMxYTllODFhNjg4OTYwODljYzU5ZjgxYTQ1MzM3MTY3N2MzMzVmZjFhZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tv-one.png"
+    },
+    {
+      "name": "Tampa Bay Rays",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tampa+Bay+Rays&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb61a/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNjFhOjE3OTEwOTk0MTY5NDc6Y2RubGl2ZXR2LnR2OjY1MDA4ODc4YTAyNTgyZDEuY2RkMThlZTQ0NDA0Njg0MGJmM2QxZmVmMzdhZjUwMGRiYzVmODViNjkyODY3M2MzNzgzZDJiZTM0ZmMwODhjOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tampa-bay-rays.png"
+    },
+    {
+      "name": "Telemundo",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf029/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDI5OjE3OTEwOTk0MTcwODQ6Y2RubGl2ZXR2LnR2OmQ4NGI3NzJiYTU2YmFlZjQuOGRkNmNmMWEwNjc2MzExYjc1NDA3N2EzNjZmMDhkYWY4NGM5NDA3YTdkNzIyZTY0MDhhYjE3ZmE4YTdlMTlkZQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/telemundo.png"
+    },
+    {
+      "name": "Tennis Channel",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis+Channel&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5ee/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWVlOjE3OTEwOTk0MTcyMzM6Y2RubGl2ZXR2LnR2OjU2MTQzYTdiMzUxNzAxYTQuMWM0ZDFhY2QzNTI2MzQ1ZDhmNGNiYjMwNjBkNTg5YzFjNzI5NTYzMWUzNzg2NDMyMGM3NzJiMjZkMGNlMWMxYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/tennis-channel.png"
+    },
+    {
+      "name": "Travel Channel",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Travel+Channel&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb6c6/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNmM2OjE3OTEwOTk0MTczNzE6Y2RubGl2ZXR2LnR2OjA2M2JkMjFkY2U0ZTQyNDUuNDE2NjkwMzFkZDI0YjQ0MDY3YTU0MDlmMTQ4ODNkOGRhNWFmZTA4ZmQyNjMxZTAwNTM1NDc3MDgxMTY5NzkzNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/travel-channel.png"
+    },
+    {
+      "name": "Tyc Sports",
+      "country": "ar",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tyc+Sports&code=ar&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce9bf/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOWJmOjE3OTEwOTk0MTc1MTk6Y2RubGl2ZXR2LnR2OjgwNDA1NDI4MDMyNWUyNzkuMzU5Njg1OTYwYTIyODgwYTlkYjQ5NzAyMDg3MWJlODE3YWRiYmMwMWNkMzM3MzliNDFmM2MwYmZjODQ5MTE4OQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/ar/tyc-sports.png"
+    },
+    {
+      "name": "USA Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=USA+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTEwOTk0MTc2NjA6Y2RubGl2ZXR2LnR2OjQzMmY4N2Q3N2NiZjczZDUuYjdmNGM0YTA4YWY0OGUwNTA2ZGNlYTM4NGJjNDgyNmM1NDZiZjhmYzlmNTJjNTFmN2RjNzkyZDdjZmJhNTBiZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network.png"
+    },
+    {
+      "name": "Universal Kids",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Universal+Kids&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb41c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDFjOjE3OTEwOTk0MTc4MDA6Y2RubGl2ZXR2LnR2OjZkY2M3ZjVkNjA1YjgzZGMuMGIyMTRlOTAwZTE3ODJiZTE0YmQxZTk2M2UzNjVkZjczMDEwMzI1MTdlYTRmZTljNTg1ZWVlMDNkOGQyY2YyZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/universal-kids.png"
+    },
+    {
+      "name": "Viaplay Sports 1",
+      "country": "gb",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay+Sports+1&code=gb&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc369/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzY5OjE3OTEwOTk0MTc5Mzc6Y2RubGl2ZXR2LnR2OjA2MDE3OTAxYzU2OTc0ODMuYzg2Y2ViMGY4NDEyMjVlOWZiZjdiODEzNDZlYjA0MTcwZjIwM2Q1ZTdmYTg5ZmNmOTFiMjI5N2YyMjQzMjRlZg",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.png"
+    },
+    {
+      "name": "WWE",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=WWE&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f7/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY3OjE3OTEwOTk0MTgwNzQ6Y2RubGl2ZXR2LnR2OjQzYjg1ZWViM2MwMzg3NzUuODFmMmZiMzNhZmY4MDkyYTUwYzQ5YWVmNWZkODViNzMzNjQ5NTE1NmM5YTZmYzBhZmZhMjIxZDVlYTM0YzllMw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/wwe.png"
+    },
+    {
+      "name": "Willow Cricket",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Willow+Cricket&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5f4/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWY0OjE3OTEwOTk0MTgyMTY6Y2RubGl2ZXR2LnR2OmVhNWQwMzc0OTU5ODY0ZTIuZjg1YTZlYmNiMDQ1Y2I3ZGJmN2NlNzc3ZDBmODIwYmU3NzZiMzM4NjNhZGM3MGYzYWJmMzYyYmUzNTRiMTJiYQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket.png"
+    },
+    {
+      "name": "Yes Network",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Yes+Network&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb538/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTM4OjE3OTEwOTk0MTgzNTU6Y2RubGl2ZXR2LnR2OmI3ODVkYzhlZmUwOWUzZmMuMmQwZDgwZmUyY2U3ODdiZjZiYTJiM2M1ZmY3MThjM2NjZjVkYTgzNWFmOTdmOTA5ZGY4M2IzZmQ5ZTc1YzcwZA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network.png"
+    },
+    {
+      "name": "beIN SPORTS 1",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+1&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3OTEwOTk0MTg0OTE6Y2RubGl2ZXR2LnR2OjVmN2IyNjk1NTNjNDUxYWEuMjlhMmQxNWEzMzliZmIzNjEzZGNlNjcyM2E3YzM3OTI4ZTRmOGYxMTIxZjA3ZDcxY2I2ZDUzODYyNGU3NDk3Ng",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1.png"
+    },
+    {
+      "name": "beIN SPORTS 2",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+2&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a4/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWE0OjE3OTEwOTk0MTg2Mjk6Y2RubGl2ZXR2LnR2OjA3MzM1ZDg4MTM2YTUxNTEuYTNmMzUyY2MzNjIwMTRmZmI0YTZjMTRhYTUyN2RmMzg1NDBhZjM4NDE4YTUyN2YwYmY1MGQyMTJjZTUyOGFjNA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-2.png"
+    },
+    {
+      "name": "beIN SPORTS 3",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+3&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd233/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjMzOjE3OTEwOTk0MTg3NjY6Y2RubGl2ZXR2LnR2Ojc5YzI0NGZjMWRhZTg4ZjguZDk1ZTI3MDc4ZTg1N2MzN2UwZTg0ZjQxYTZiZmQ1MTUzYmM0MTk5NmM3Y2Q4ZThjYTYwY2EzZTllOGY2ZGQ0NQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-3.png"
+    },
+    {
+      "name": "beIN SPORTS 9",
+      "country": "sa",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+9&code=sa&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76cab6f/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYjZmOjE3OTEwOTk0MTg5MTE6Y2RubGl2ZXR2LnR2OjcxNGE1ZDI5MTAzOTg2ODUuMzg5OTMyNzVkNzA1YzAzYjc2MzcwMDJiYmZlNDMxMTFkNWJiYTQzOWU0OGRlYWQwYmE5ZWUyMDlkMjkwYjYyNw",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-9.png"
+    },
+    {
+      "name": "beIN SPORTS MAX 5",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+MAX+5&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd23b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjNiOjE3OTEwOTk0MTkwNDk6Y2RubGl2ZXR2LnR2OmU4ZTlhMDk1Nzg0ZTRmOTcuOWZkZGM5NjNjMzRiYTdhOTA1NTE3YzY5OTE1YzEyNmI2Mzg3ZDMyMTVjMjU4Mjg0NzFiYmI2NGU2MjYwNTI4NA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5.png"
+    },
+    {
+      "name": "beIN SPORTS MAX 7",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+MAX+7&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd243/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjQzOjE3OTEwOTk0MTkxODc6Y2RubGl2ZXR2LnR2OjgyZTc1MGM2NTBlNTVkYzUuMDdmYjk1NzE1YTM0ZjY0NjkyMmEyMGI1NTQzZDYwZTk1MTQ0ZTZiZGNlYWYyYjZkZDlkYmY5M2E0MjZiYTg1NQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-7.png"
+    },
+    {
+      "name": "beIN SPORTS MAX 8",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+MAX+8&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd246/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjQ2OjE3OTEwOTk0MTkzMzc6Y2RubGl2ZXR2LnR2OjA0MGFkOTU1MjY3YjA3NGIuNTE5ZjQyNDU4YzgxMDE3NWFhYWJmNTk3ODUzYjJmZDVhMWIxNDFkNWJlZjFkN2U3OTM1ZDQ0MWVlN2FkMmZlMQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-8.png"
+    },
+    {
+      "name": "beIN SPORTS MAX 9",
+      "country": "fr",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN+SPORTS+MAX+9&code=fr&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd249/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjQ5OjE3OTEwOTk0MTk0NzM6Y2RubGl2ZXR2LnR2OmY2ZjkyYzAzZWRjMmEwN2QuMjg2MzgyOTkyZWZhZGUxYmMzNWQ5MWI2MGMzZTdiYjk1OGIzZjAzODU2YjJlMzZlOTQ4ZmEyNzhlNjliMzFhOA",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-9.png"
+    },
+    {
+      "name": "truTV",
+      "country": "us",
+      "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=truTV&code=us&user=cdnlivetv&plan=free",
+      "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb2a1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmExOjE3OTEwOTk0MTk2MTA6Y2RubGl2ZXR2LnR2OmE1YjRjOGFhNjZmZGE3MTQuZDMzM2NlMmYzNWIxZjBlZWUzM2Q1NGY4MjFiNDBiMjU2ZmZlNTI4MTYyMmU3YzVjZWZjYTE0ODUzMjgyYWYyNQ",
+      "logo": "https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/trutv.png"
+    }
+  ],
+  "events": [
+    {
+      "title": "USA vs Mexico",
+      "status": "2H",
+      "startTime": "2026-10-04 02:00",
+      "streams": [
+        {
+          "channelName": "TNT US",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT+US&code=us&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3OTEwOTk0MjA1NDM6Y2RubGl2ZXR2LnR2OjkzZDRiZTg5NmE0OTMxNTkuZWE1MDZhYjIxOTAyYzkzZTY0MmUwYjFjZjBiNzdkYjZkOWJlM2RlOTc2OWJlYWZlYTc5MDI5Y2RhMjUxNmNiOA"
+        },
+        {
+          "channelName": "Azteca 7 FHD MX",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca+7+FHD+MX&code=mx&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf024/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDI0OjE3OTEwOTk0MjA3MDI6Y2RubGl2ZXR2LnR2OmM0OTg2ZDQ4Y2ZmZGU0ZDkuOTg3ZDIyOTk5YzMyNTQ1N2FlYmQ2ZTY3NmZjNGVjZTI1YTA5OTVjYTFkNmY3ODZhZmVjMzU1YzkwYmU5OTdjNA"
+        },
+        {
+          "channelName": "Telemundo FHD MX",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo+FHD+MX&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf029/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMDI5OjE3OTEwOTk0MjA4NjY6Y2RubGl2ZXR2LnR2Ojg2ZGJhZTU3NTI2ZWRmOTguZGNjNzliNGU2OGQ5YjAwMTQ4ODA5ODc5NmNiYWZmMDI1OWU0ZGVlNjNiYTAyOTA5Y2RkNzcxNWM0ZWMxMzc4ZA"
+        },
+        {
+          "channelName": "ESPN Brasil HD BR",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+Brasil+HD+BR&code=br&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwOTk0MjEwNTQ6Y2RubGl2ZXR2LnR2OjdkOGQ4YTlhY2I3MTc4Y2IuYmZlNDIzNTBiNzgyYTI5NzNkZTg0ODA3MmM3MzZjM2MyOWYyNzE1OTAxYmM3MDFkNzhjYjUzMDhkMjllNjQ2NQ"
+        },
+        {
+          "channelName": "ESPN 2 Primera FHD ARG",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+2+Primera+FHD+ARG&code=ar&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce946/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlOTQ2OjE3OTEwOTk0MjEyMjc6Y2RubGl2ZXR2LnR2OjVmZDVkZTY5MDNmMjI5MDkuN2I2ZmRjNWYzZTQ2ZjBhZTUxZDAzODE0MWIxNzQwZGRkMjBmNmYyMzViNzNmOTIyMzI3OTVjMTU1NmUzZTllOA"
+        }
+      ]
+    },
+    {
+      "title": "Brazil U20 vs Mexico U20",
+      "status": "NS",
+      "startTime": "2026-10-04 09:00",
+      "streams": []
+    },
+    {
+      "title": "Germany U17 vs England U17",
+      "status": "NS",
+      "startTime": "2026-10-04 10:00",
+      "streams": []
+    },
+    {
+      "title": "Kyrgyzstan vs Lebanon",
+      "status": "NS",
+      "startTime": "2026-10-04 12:00",
+      "streams": []
+    },
+    {
+      "title": "Comoros vs Senegal",
+      "status": "NS",
+      "startTime": "2026-10-04 13:00",
+      "streams": []
+    },
+    {
+      "title": "South Africa U23 vs Algeria U23",
+      "status": "NS",
+      "startTime": "2026-10-04 13:00",
+      "streams": []
+    },
+    {
+      "title": "Morocco vs Ghana",
+      "status": "CANC",
+      "startTime": "2026-10-04 18:00",
+      "streams": []
+    },
+    {
+      "title": "Egypt vs South Africa",
+      "status": "NS",
+      "startTime": "2026-10-04 18:00",
+      "streams": [
+        {
+          "channelName": "ON Sport 1 FHD",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ON+Sport+1+FHD&code=eg&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76caa70/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYTcwOjE3OTEwOTk0MjEzNjY6Y2RubGl2ZXR2LnR2OjViYzNlY2ZiNGQzZTQ0ZWMuYzM3Y2U3MTRkNjQwZWUzMTg4MDNiMjcyNjIwNjIxM2JhNWZhOTlmNGE2YWE4ZWUzMDQ3OGY1Mjg5YjliMmFjMQ"
+        }
+      ]
+    },
+    {
+      "title": "Bolivia vs Gambia",
+      "status": "NS",
+      "startTime": "2026-10-04 22:30",
+      "streams": []
+    },
+    {
+      "title": "Wales U19 vs Northern Ireland U19",
+      "status": "NS",
+      "startTime": "2026-10-05 10:00",
+      "streams": []
+    },
+    {
+      "title": "England U19 vs Belgium U19",
+      "status": "NS",
+      "startTime": "2026-10-05 11:00",
+      "streams": []
+    },
+    {
+      "title": "Uganda vs DR Congo",
+      "status": "NS",
+      "startTime": "2026-10-05 13:00",
+      "streams": []
+    },
+    {
+      "title": "Ukraine U21 vs Albania U21",
+      "status": "NS",
+      "startTime": "2026-10-05 13:30",
+      "streams": []
+    },
+    {
+      "title": "Montenegro U19 vs Israel U19",
+      "status": "NS",
+      "startTime": "2026-10-05 14:00",
+      "streams": []
+    },
+    {
+      "title": "Montenegro U21 vs Armenia U21",
+      "status": "NS",
+      "startTime": "2026-10-05 15:00",
+      "streams": []
+    },
+    {
+      "title": "Italy U21 vs Poland U21",
+      "status": "NS",
+      "startTime": "2026-10-05 15:00",
+      "streams": [
+        {
+          "channelName": "TVP Sport HD PL",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVP+Sport+HD+PL&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3ae/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FlOjE3OTEwOTk0MjE1MTc6Y2RubGl2ZXR2LnR2OmNjN2M1N2MxZjZmMzkwYjMuOGY3NDhkMjZlMjFhMDkyYThlZGU2NWFmN2I0OTE0MjNlOTM2MTdmNTYwY2ExNzg4ZWQ1ZWVlMmU1OTMxMWQ3Zg"
+        },
+        {
+          "channelName": "TVP Sport FHD PL",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVP+Sport+FHD+PL&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3OTEwOTk0MjE2NjI6Y2RubGl2ZXR2LnR2OjBhOTU1ZjUxMmQxZmRkMTAuNDJhZTk1ZTU0NTg5ZjRhYzVlYTcwZjUxN2U1M2FhYzJhN2VjMmVkNTQ4MTdlY2JhNjBkNDlhOWExOWYyYjhkMg"
+        }
+      ]
+    },
+    {
+      "title": "Sweden U21 vs North Macedonia U21",
+      "status": "NS",
+      "startTime": "2026-10-05 15:00",
+      "streams": []
+    },
+    {
+      "title": "Mauritius vs Sri Lanka",
+      "status": "NS",
+      "startTime": "2026-10-05 15:00",
+      "streams": []
+    },
+    {
+      "title": "Serbia U21 vs Russian Federation U21",
+      "status": "NS",
+      "startTime": "2026-10-05 16:00",
+      "streams": []
+    },
+    {
+      "title": "Liechtenstein vs Gibraltar",
+      "status": "NS",
+      "startTime": "2026-10-05 18:45",
+      "streams": []
+    },
+    {
+      "title": "Australia U23 vs South Korea U23",
+      "status": "NS",
+      "startTime": "2026-10-06 02:00",
+      "streams": []
+    },
+    {
+      "title": "South Korea vs Uzbekistan",
+      "status": "NS",
+      "startTime": "2026-10-06 11:00",
+      "streams": []
+    },
+    {
+      "title": "Denmark U19 vs Netherlands U19",
+      "status": "NS",
+      "startTime": "2026-10-06 11:00",
+      "streams": []
+    },
+    {
+      "title": "France U17 vs Netherlands U17",
+      "status": "NS",
+      "startTime": "2026-10-06 11:30",
+      "streams": []
+    },
+    {
+      "title": "China vs Tajikistan",
+      "status": "NS",
+      "startTime": "2026-10-06 11:35",
+      "streams": []
+    },
+    {
+      "title": "Portugal U19 vs Netherlands U19",
+      "status": "NS",
+      "startTime": "2026-10-06 12:00",
+      "streams": []
+    },
+    {
+      "title": "India vs Uruguay",
+      "status": "NS",
+      "startTime": "2026-10-06 14:00",
+      "streams": [
+        {
+          "channelName": "Sport TV 1 FHD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+FHD+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEwOTk0MjE4MjM6Y2RubGl2ZXR2LnR2OmMxZjZlZmE5ZDIyNTJhZjcuN2U4ZDQwN2ZmMzVkMmM0N2RmMTYwN2E1M2IzYzUzMDY2NTQ2MDZmZTk5OTY5NDQ3Nzg2NWQ5NjU3NjA0ZWZlNA"
+        },
+        {
+          "channelName": "Sport TV 1 HD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+HD+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd413/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEzOjE3OTEwOTk0MjE5Nzk6Y2RubGl2ZXR2LnR2OmZlMzJhN2UyMmFmOGM1NGQuM2VjM2NmYTRhMmM3Njg2ODQyY2NkNmFhMDcyNGRkNmZkNjMzZDQ2NmMzNjI4ZmM2NWQ4OTRjNmIxYjEzMDkwYw"
+        },
+        {
+          "channelName": "Sport TV 1 HD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+HD+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd413/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEzOjE3OTEwOTk0MjIxMzY6Y2RubGl2ZXR2LnR2Ojk3NDRkY2FhNWFjNzU4OGEuNzlkYjcwZGZhMzMxYTU4OWMxODQwZGM0Zjc0MDk4ODMzZGVkZWRlYzg2Zjk4NTc5YTVjNzI2NThiYWQxNDgyNQ"
+        },
+        {
+          "channelName": "Sport TV 1 PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd415/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDE1OjE3OTEwOTk0MjIyOTE6Y2RubGl2ZXR2LnR2OjA1YmEwZDdkZmEwNmQ3NDEuN2IzYjE1YmY2NzgzYjE1ZTkzNmFkYTU3ZmMzMDczNzNlNWJhMDU0YjUxNTg0M2I5YmRhNTlkMmI3YWM1OTQ1Mw"
+        }
+      ]
+    },
+    {
+      "title": "Portugal U19 vs Austria U19",
+      "status": "NS",
+      "startTime": "2026-10-06 14:00",
+      "streams": []
+    },
+    {
+      "title": "Luxembourg U21 vs Estonia U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": [
+        {
+          "channelName": "Fox Sports 2 FHD US",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox+Sports+2+FHD+US&code=us&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3OTEwOTk0MjI0NjY6Y2RubGl2ZXR2LnR2OmI3YjZlYWRjMzRhYzVkNDAuNzIwOWY2MTNhMzA1OTcwZmEyOWM5YWJlYTVmYjE5YjZmOWE2N2U5ZjU2ZGE4YTNjMTliYmQyOWU2ZTRhMGJlOA"
+        },
+        {
+          "channelName": "Sport TV 3 HD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+3+HD+PT&code=pt&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd41b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDFiOjE3OTEwOTk0MjI2NDY6Y2RubGl2ZXR2LnR2OjVmZWI5MGQ1YjNhMDI4YWIuM2FjNjVhZWEwNTMyMWE4YTk5ZTE3ZjVkMDAwNDliMjY0ZGJiMmQzMWU3Yzk1MWVjYmZjYzVkZjkyNWQ1MmM0Yw"
+        },
+        {
+          "channelName": "Prima Sport 4 FHD RO",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima+Sport+4+FHD+RO&code=ro&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd563/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNTYzOjE3OTEwOTk0MjI4MjI6Y2RubGl2ZXR2LnR2OjM4YTI0MWM0MzdhNWExZDkuZDczNzc5ODM0MjFhZTdjMTAyYzFiYjg0MmRjZWJiZDY0YTM3MDc5MzFlZDFiY2I5ZTk4NDE1MjZiNmUyMTk5OQ"
+        },
+        {
+          "channelName": "Diema Sport 2 HD BG",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema+Sport+2+HD+BG&code=bg&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf09/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjA5OjE3OTEwOTk0MjI5ODg6Y2RubGl2ZXR2LnR2OmM4YWQzNTEzMjEwNTJkOTkuNDRlNjQwMGQ5OTY0NzI3M2ViMmFmM2VlZTUxMzNkOTA2OTFjZTEwM2MyNGZiZWIyOThiZmFkNWIzNTViYzIxYQ"
+        }
+      ]
+    },
+    {
+      "title": "France U21 vs Switzerland U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Faroe Islands U21 vs Iceland U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Andorra U21 vs Slovakia U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Moldova U21 vs Kazakhstan U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Republic of Ireland U21 vs England U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Netherlands U21 vs Bosnia-Herzegovina U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Israel U21 vs Norway U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Azerbaijan U21 vs Gibraltar U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Portugal U21 vs Czech Republic U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Bulgaria U21 vs Scotland U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Spain U21 vs Romania U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Cyprus U21 vs San Marino U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Kosovo U21 vs Finland U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Lithuania U21 vs Croatia U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Turkey U21 vs Hungary U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Denmark U21 vs Belgium U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Wales U21 vs Austria U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Northern Ireland U21 vs Greece U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Latvia U21 vs Malta U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Germany U21 vs Georgia U21",
+      "status": "NS",
+      "startTime": "2026-10-06 15:00",
+      "streams": []
+    },
+    {
+      "title": "Russia vs Nigeria",
+      "status": "NS",
+      "startTime": "2026-10-06 16:00",
+      "streams": []
+    },
+    {
+      "title": "Jordan vs Venezuela",
+      "status": "NS",
+      "startTime": "2026-10-06 17:00",
+      "streams": []
+    },
+    {
+      "title": "Algeria vs Niger",
+      "status": "NS",
+      "startTime": "2026-10-06 19:30",
+      "streams": []
+    },
+    {
+      "title": "Sport Recife vs São Bernardo",
+      "status": "NS",
+      "startTime": "2026-10-06 22:30",
+      "streams": []
+    },
+    {
+      "title": "Argentina vs Benin",
+      "status": "NS",
+      "startTime": "2026-10-06 23:00",
+      "streams": [
+        {
+          "channelName": "Sport TV 1 FHD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+FHD+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEwOTk0MjMxNDY6Y2RubGl2ZXR2LnR2OmNhYjNhYWE0Mzc2ZTU2MDQuMzAyNmM5YjM1MjAwMDMzMTg4YzRhZDRkN2VlYWY1ZjE1ZmVjZDE3YmYzOWRjMGIxNTFhZTFkNzQxY2IyZjVkYw"
+        },
+        {
+          "channelName": "Sport TV 1 HD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+HD+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd413/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEzOjE3OTEwOTk0MjMzMDI6Y2RubGl2ZXR2LnR2OmY5ZTU0MDI0Yjg1ZjE5ZDkuMmYyN2I2NjFlNzMwOGYwZWFjZGIyZGYwYjdmNTdjMzQ1ODU2MTJjNGQzNGM2MzFiZmE1ZWM2YTE2ZDBmOTdmNw"
+        },
+        {
+          "channelName": "Sport TV 1 HD PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+HD+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd413/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEzOjE3OTEwOTk0MjM0Njg6Y2RubGl2ZXR2LnR2OjMxN2UwNzA4ZDUyZjA2NDYuY2M3NDA2NTg1NmQxOTQ3YjMxYjYwOWE4MjgzOTEyZWFiYjU3NWRhZGRmNDkxZTNkODMwMmEyNTQ5YjgzMDY0ZA"
+        },
+        {
+          "channelName": "Sport TV 1 PT",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport+TV+1+PT&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd415/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDE1OjE3OTEwOTk0MjM2Mzc6Y2RubGl2ZXR2LnR2OjJlYjNjNGY5ODVjNzZhYzQuZGM3YzRlYjg5MDQ1ZjI0NDBiMDU1NGYzOTYxZDIxM2UwMGNmYTUyMzI2ZDYxZjgwZWIxN2JlMDJhZDU2M2ZhZA"
+        }
+      ]
+    },
+    {
+      "title": "Goiás vs Athletic Club-MG",
+      "status": "NS",
+      "startTime": "2026-10-06 23:30",
+      "streams": []
+    },
+    {
+      "title": "Colombia vs Peru",
+      "status": "NS",
+      "startTime": "2026-10-06 23:45",
+      "streams": [
+        {
+          "channelName": "Movistar Liga de Campeones 2",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar+Liga+de+Campeones+2&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc77e/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzdlOjE3OTEwOTk0MjM3OTA6Y2RubGl2ZXR2LnR2OjE1ZmMyNGYxZjYxZTgwNDQuYTNhNzIzNzY4ZDE1OTc2YWNkMjRhMjk2YjFhZmNjODQ1OTI1ZGQ2NDI3NDhhYTk0N2FkMzI2YmY5ZTcwMDM0NQ"
+        },
+        {
+          "channelName": "Movistar Liga de Campeones 2 FHD",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar+Liga+de+Campeones+2+FHD&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc77f/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjNzdmOjE3OTEwOTk0MjM5NDM6Y2RubGl2ZXR2LnR2OjZmNzU3MTFiZjRmODc2MjcuMTEwM2UzOTE0NWFiNWM1OGJhMWUwMTIzOGVlMWI4YTBmNGI2OWViYzc5YTQwZDgzNmQyYWIzOWQ5OGFkYTZhMQ"
+        }
+      ]
+    },
+    {
+      "title": "USA vs Canada",
+      "status": "NS",
+      "startTime": "2026-10-07 00:00",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-10-07 00:30",
+      "streams": []
+    },
+    {
+      "title": "Ponte Preta vs Juventude",
+      "status": "NS",
+      "startTime": "2026-10-07 00:35",
+      "streams": []
+    },
+    {
+      "title": "Mexico vs Chile",
+      "status": "NS",
+      "startTime": "2026-10-07 02:30",
+      "streams": []
+    },
+    {
+      "title": "Avaí vs Londrina",
+      "status": "NS",
+      "startTime": "2026-10-07 22:30",
+      "streams": []
+    },
+    {
+      "title": "Operário Ferroviário vs Botafogo-SP",
+      "status": "NS",
+      "startTime": "2026-10-07 22:30",
+      "streams": []
+    },
+    {
+      "title": "América Mineiro vs Fortaleza",
+      "status": "NS",
+      "startTime": "2026-10-07 23:30",
+      "streams": []
+    },
+    {
+      "title": "CRB vs Atlético Goianiense",
+      "status": "NS",
+      "startTime": "2026-10-07 23:30",
+      "streams": []
+    },
+    {
+      "title": "Vila Nova vs Cuiabá",
+      "status": "NS",
+      "startTime": "2026-10-07 23:30",
+      "streams": []
+    },
+    {
+      "title": "Ceará vs Criciúma",
+      "status": "NS",
+      "startTime": "2026-10-08 22:30",
+      "streams": [
+        {
+          "channelName": "ESPN Brasil HD BR",
+          "playerUrl": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+Brasil+HD+BR&code=&user=cdnlivetv&plan=free",
+          "streamUrl": "https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce889/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlODg5OjE3OTEwOTk0MjQxMDE6Y2RubGl2ZXR2LnR2OmRkYTc3ZmU4OGU1NmUxYmQuNjA3ZDRmZmM2YzA5NGY0OTdkM2UwYzQwNDMyZGQ1YjE2MDE2NzBhNTU5ZTJjYjhkMThiMzUwZjc1ODZmY2JiNw"
+        }
+      ]
+    },
+    {
+      "title": "Náutico vs Novorizontino",
+      "status": "NS",
+      "startTime": "2026-10-08 22:30",
+      "streams": []
+    },
+    {
+      "title": "Toronto FC vs CF Montréal",
+      "status": "NS",
+      "startTime": "2026-10-10 17:00",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs New York City FC",
+      "status": "NS",
+      "startTime": "2026-10-10 18:30",
+      "streams": []
+    },
+    {
+      "title": "Inter Miami vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "Atlanta United vs FC Cincinnati",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "Orlando City vs Columbus Crew",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "New England Revolution vs Seattle Sounders",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "Philadelphia Union vs Real Salt Lake",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "New York Red Bulls vs San Diego FC",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "Charlotte FC vs FC Dallas",
+      "status": "NS",
+      "startTime": "2026-10-10 23:30",
+      "streams": []
+    },
+    {
+      "title": "Austin FC vs Nashville SC",
+      "status": "NS",
+      "startTime": "2026-10-11 00:30",
+      "streams": []
+    },
+    {
+      "title": "Minnesota United vs Houston Dynamo",
+      "status": "NS",
+      "startTime": "2026-10-11 00:30",
+      "streams": []
+    },
+    {
+      "title": "Sporting Kansas City vs Portland Timbers",
+      "status": "NS",
+      "startTime": "2026-10-11 00:30",
+      "streams": []
+    },
+    {
+      "title": "Colorado Rapids vs San Jose Earthquakes",
+      "status": "NS",
+      "startTime": "2026-10-11 01:30",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles FC vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-10-11 02:30",
+      "streams": []
+    },
+    {
+      "title": "Juventude vs São Bernardo",
+      "status": "NS",
+      "startTime": "2026-10-11 19:00",
+      "streams": []
+    },
+    {
+      "title": "Atlético Goianiense vs Sport Recife",
+      "status": "NS",
+      "startTime": "2026-10-11 19:10",
+      "streams": []
+    },
+    {
+      "title": "Náutico vs Vila Nova",
+      "status": "NS",
+      "startTime": "2026-10-11 20:30",
+      "streams": []
+    },
+    {
+      "title": "Cuiabá vs Avaí",
+      "status": "NS",
+      "startTime": "2026-10-11 21:30",
+      "streams": []
+    },
+    {
+      "title": "Operário Ferroviário vs Goiás",
+      "status": "NS",
+      "startTime": "2026-10-11 21:30",
+      "streams": []
+    },
+    {
+      "title": "St. Louis City SC vs LA Galaxy",
+      "status": "NS",
+      "startTime": "2026-10-11 23:00",
+      "streams": []
+    },
+    {
+      "title": "Novorizontino vs Ponte Preta",
+      "status": "NS",
+      "startTime": "2026-10-12 22:00",
+      "streams": []
+    },
+    {
+      "title": "Criciúma vs América Mineiro",
+      "status": "NS",
+      "startTime": "2026-10-12 22:30",
+      "streams": []
+    },
+    {
+      "title": "Fortaleza vs CRB",
+      "status": "NS",
+      "startTime": "2026-10-12 23:30",
+      "streams": []
+    },
+    {
+      "title": "Botafogo-SP vs Ceará",
+      "status": "NS",
+      "startTime": "2026-10-13 00:00",
+      "streams": []
+    },
+    {
+      "title": "Athletic Club-MG vs Londrina",
+      "status": "NS",
+      "startTime": "2026-10-13 22:30",
+      "streams": []
+    },
+    {
+      "title": "Inter Miami vs New York City FC",
+      "status": "NS",
+      "startTime": "2026-10-14 23:30",
+      "streams": []
+    },
+    {
+      "title": "Columbus Crew vs Charlotte FC",
+      "status": "NS",
+      "startTime": "2026-10-14 23:30",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs New England Revolution",
+      "status": "NS",
+      "startTime": "2026-10-14 23:30",
+      "streams": []
+    },
+    {
+      "title": "Toronto FC vs Orlando City",
+      "status": "NS",
+      "startTime": "2026-10-14 23:30",
+      "streams": []
+    },
+    {
+      "title": "CF Montréal vs Atlanta United",
+      "status": "NS",
+      "startTime": "2026-10-14 23:30",
+      "streams": []
+    },
+    {
+      "title": "DC United vs New York Red Bulls",
+      "status": "NS",
+      "startTime": "2026-10-14 23:30",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs Seattle Sounders",
+      "status": "NS",
+      "startTime": "2026-10-15 00:30",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs Philadelphia Union",
+      "status": "NS",
+      "startTime": "2026-10-15 00:30",
+      "streams": []
+    },
+    {
+      "title": "St. Louis City SC vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-10-15 00:30",
+      "streams": []
+    },
+    {
+      "title": "Nashville SC vs Sporting Kansas City",
+      "status": "NS",
+      "startTime": "2026-10-15 00:30",
+      "streams": []
+    },
+    {
+      "title": "Colorado Rapids vs Minnesota United",
+      "status": "NS",
+      "startTime": "2026-10-15 01:30",
+      "streams": []
+    },
+    {
+      "title": "Real Salt Lake vs San Jose Earthquakes",
+      "status": "NS",
+      "startTime": "2026-10-15 01:30",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles FC vs Austin FC",
+      "status": "NS",
+      "startTime": "2026-10-15 02:30",
+      "streams": []
+    },
+    {
+      "title": "LA Galaxy vs Portland Timbers",
+      "status": "NS",
+      "startTime": "2026-10-15 02:30",
+      "streams": []
+    },
+    {
+      "title": "San Diego FC vs Houston Dynamo",
+      "status": "NS",
+      "startTime": "2026-10-15 02:30",
+      "streams": []
+    },
+    {
+      "title": "Ponte Preta vs Atlético Goianiense",
+      "status": "NS",
+      "startTime": "2026-10-16 22:30",
+      "streams": []
+    },
+    {
+      "title": "Sport Recife vs Fortaleza",
+      "status": "NS",
+      "startTime": "2026-10-16 23:30",
+      "streams": []
+    },
+    {
+      "title": "Philadelphia Union vs Charlotte FC",
+      "status": "NS",
+      "startTime": "2026-10-17 18:30",
+      "streams": []
+    },
+    {
+      "title": "Ceará vs Juventude",
+      "status": "NS",
+      "startTime": "2026-10-17 19:30",
+      "streams": []
+    },
+    {
+      "title": "Minnesota United vs St. Louis City SC",
+      "status": "NS",
+      "startTime": "2026-10-17 20:30",
+      "streams": []
+    },
+    {
+      "title": "América Mineiro vs Operário Ferroviário",
+      "status": "NS",
+      "startTime": "2026-10-17 21:30",
+      "streams": []
+    },
+    {
+      "title": "Atlanta United vs Inter Miami",
+      "status": "NS",
+      "startTime": "2026-10-17 23:30",
+      "streams": []
+    },
+    {
+      "title": "New York Red Bulls vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-10-17 23:30",
+      "streams": []
+    },
+    {
+      "title": "Orlando City vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-17 23:30",
+      "streams": []
+    },
+    {
+      "title": "New England Revolution vs Chicago Fire",
+      "status": "NS",
+      "startTime": "2026-10-17 23:30",
+      "streams": []
+    },
+    {
+      "title": "New York City FC vs Los Angeles FC",
+      "status": "NS",
+      "startTime": "2026-10-17 23:30",
+      "streams": []
+    },
+    {
+      "title": "Austin FC vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-10-18 00:30",
+      "streams": []
+    },
+    {
+      "title": "Houston Dynamo vs FC Dallas",
+      "status": "NS",
+      "startTime": "2026-10-18 00:30",
+      "streams": []
+    },
+    {
+      "title": "Sporting Kansas City vs Real Salt Lake",
+      "status": "NS",
+      "startTime": "2026-10-18 00:30",
+      "streams": []
+    },
+    {
+      "title": "LA Galaxy vs San Diego FC",
+      "status": "NS",
+      "startTime": "2026-10-18 02:30",
+      "streams": []
+    },
+    {
+      "title": "Seattle Sounders vs CF Montréal",
+      "status": "NS",
+      "startTime": "2026-10-18 02:30",
+      "streams": []
+    },
+    {
+      "title": "San Jose Earthquakes vs Nashville SC",
+      "status": "NS",
+      "startTime": "2026-10-18 02:30",
+      "streams": []
+    },
+    {
+      "title": "Portland Timbers vs Colorado Rapids",
+      "status": "NS",
+      "startTime": "2026-10-18 02:30",
+      "streams": []
+    },
+    {
+      "title": "Avaí vs Athletic Club-MG",
+      "status": "NS",
+      "startTime": "2026-10-18 19:00",
+      "streams": []
+    },
+    {
+      "title": "CRB vs Botafogo-SP",
+      "status": "NS",
+      "startTime": "2026-10-18 19:00",
+      "streams": []
+    },
+    {
+      "title": "São Bernardo vs Criciúma",
+      "status": "NS",
+      "startTime": "2026-10-18 19:00",
+      "streams": []
+    },
+    {
+      "title": "Vila Nova vs Novorizontino",
+      "status": "NS",
+      "startTime": "2026-10-18 21:00",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs Columbus Crew",
+      "status": "NS",
+      "startTime": "2026-10-18 23:00",
+      "streams": []
+    },
+    {
+      "title": "Goiás vs Náutico",
+      "status": "NS",
+      "startTime": "2026-10-19 22:30",
+      "streams": []
+    },
+    {
+      "title": "Londrina vs Cuiabá",
+      "status": "NS",
+      "startTime": "2026-10-20 22:30",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-21 23:00",
+      "streams": []
+    },
+    {
+      "title": "CF Montréal vs Nashville SC",
+      "status": "NS",
+      "startTime": "2026-10-24 17:30",
+      "streams": []
+    },
+    {
+      "title": "América Mineiro vs Cuiabá",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Atlético Goianiense vs Novorizontino",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Avaí vs Botafogo-SP",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Ceará vs Goiás",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "CRB vs Londrina",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Juventude vs Náutico",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Operário Ferroviário vs Athletic Club-MG",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Ponte Preta vs Fortaleza",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "São Bernardo vs Vila Nova",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Sport Recife vs Criciúma",
+      "status": "NS",
+      "startTime": "2026-10-24 19:00",
+      "streams": []
+    },
+    {
+      "title": "Columbus Crew vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-10-24 19:30",
+      "streams": []
+    },
+    {
+      "title": "New York Red Bulls vs Inter Miami",
+      "status": "NS",
+      "startTime": "2026-10-24 21:30",
+      "streams": []
+    },
+    {
+      "title": "Orlando City vs New York City FC",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "DC United vs FC Cincinnati",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "Philadelphia Union vs New England Revolution",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "Atlanta United vs Chicago Fire",
+      "status": "NS",
+      "startTime": "2026-10-24 23:30",
+      "streams": []
+    },
+    {
+      "title": "Houston Dynamo vs Minnesota United",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs San Jose Earthquakes",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "Sporting Kansas City vs Austin FC",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "Colorado Rapids vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "Real Salt Lake vs St. Louis City SC",
+      "status": "NS",
+      "startTime": "2026-10-25 00:30",
+      "streams": []
+    },
+    {
+      "title": "San Diego FC vs Seattle Sounders",
+      "status": "NS",
+      "startTime": "2026-10-25 02:30",
+      "streams": []
+    },
+    {
+      "title": "Portland Timbers vs Charlotte FC",
+      "status": "NS",
+      "startTime": "2026-10-25 02:30",
+      "streams": []
+    },
+    {
+      "title": "Atlético Tucumán vs Platense",
+      "status": "NS",
+      "startTime": "2026-10-25 21:00",
+      "streams": []
+    },
+    {
+      "title": "Banfield vs Boca Juniors",
+      "status": "NS",
+      "startTime": "2026-10-25 22:00",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles FC vs LA Galaxy",
+      "status": "NS",
+      "startTime": "2026-10-26 01:00",
+      "streams": []
+    },
+    {
+      "title": "Inter Miami vs FC Cincinnati",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "New York City FC vs Atlanta United",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "New England Revolution vs New York Red Bulls",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "Charlotte FC vs CF Montréal",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "Toronto FC vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-28 23:30",
+      "streams": []
+    },
+    {
+      "title": "Nashville SC vs Philadelphia Union",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs Columbus Crew",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs Orlando City",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Minnesota United vs Sporting Kansas City",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Austin FC vs Real Salt Lake",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "St. Louis City SC vs Portland Timbers",
+      "status": "NS",
+      "startTime": "2026-10-29 00:30",
+      "streams": []
+    },
+    {
+      "title": "Vancouver Whitecaps vs San Diego FC",
+      "status": "NS",
+      "startTime": "2026-10-29 02:30",
+      "streams": []
+    },
+    {
+      "title": "Seattle Sounders vs Houston Dynamo",
+      "status": "NS",
+      "startTime": "2026-10-29 02:30",
+      "streams": []
+    },
+    {
+      "title": "San Jose Earthquakes vs Colorado Rapids",
+      "status": "NS",
+      "startTime": "2026-10-29 02:30",
+      "streams": []
+    },
+    {
+      "title": "Charlotte FC vs Orlando City",
+      "status": "NS",
+      "startTime": "2026-10-31 17:00",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs Philadelphia Union",
+      "status": "NS",
+      "startTime": "2026-10-31 18:00",
+      "streams": []
+    },
+    {
+      "title": "Columbus Crew vs DC United",
+      "status": "NS",
+      "startTime": "2026-10-31 18:00",
+      "streams": []
+    },
+    {
+      "title": "New York City FC vs CF Montréal",
+      "status": "NS",
+      "startTime": "2026-10-31 18:00",
+      "streams": []
+    },
+    {
+      "title": "Sporting Kansas City vs FC Dallas",
+      "status": "NS",
+      "startTime": "2026-10-31 19:00",
+      "streams": []
+    },
+    {
+      "title": "St. Louis City SC vs San Diego FC",
+      "status": "NS",
+      "startTime": "2026-10-31 19:00",
+      "streams": []
+    },
+    {
+      "title": "Athletic Club-MG vs Ceará",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Botafogo-SP vs Sport Recife",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Criciúma vs Ponte Preta",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Cuiabá vs São Bernardo",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Fortaleza vs Atlético Goianiense",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Goiás vs CRB",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Londrina vs América Mineiro",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Náutico vs Avaí",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Novorizontino vs Operário Ferroviário",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "Vila Nova vs Juventude",
+      "status": "NS",
+      "startTime": "2026-10-31 20:00",
+      "streams": []
+    },
+    {
+      "title": "LA Galaxy vs Austin FC",
+      "status": "NS",
+      "startTime": "2026-10-31 21:00",
+      "streams": []
+    },
+    {
+      "title": "San Jose Earthquakes vs Real Salt Lake",
+      "status": "NS",
+      "startTime": "2026-10-31 21:00",
+      "streams": []
+    },
+    {
+      "title": "Colorado Rapids vs Chicago Fire",
+      "status": "NS",
+      "startTime": "2026-11-01 01:30",
+      "streams": []
+    },
+    {
+      "title": "Nashville SC vs New York Red Bulls",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "Atlanta United vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "Vancouver Whitecaps vs Seattle Sounders",
+      "status": "NS",
+      "startTime": "2026-11-01 21:30",
+      "streams": []
+    },
+    {
+      "title": "New England Revolution vs Inter Miami",
+      "status": "NS",
+      "startTime": "2026-11-02 00:00",
+      "streams": []
+    },
+    {
+      "title": "Los Angeles FC vs Minnesota United",
+      "status": "NS",
+      "startTime": "2026-11-02 01:30",
+      "streams": []
+    },
+    {
+      "title": "Portland Timbers vs Houston Dynamo",
+      "status": "NS",
+      "startTime": "2026-11-02 02:30",
+      "streams": []
+    },
+    {
+      "title": "Athletic Club-MG vs Atlético Goianiense",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Avaí vs São Bernardo",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Botafogo-SP vs Londrina",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Ceará vs América Mineiro",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Cuiabá vs Juventude",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Goiás vs Ponte Preta",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Náutico vs CRB",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Novorizontino vs Fortaleza",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Operário Ferroviário vs Sport Recife",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Vila Nova vs Criciúma",
+      "status": "NS",
+      "startTime": "2026-11-07 20:00",
+      "streams": []
+    },
+    {
+      "title": "Inter Miami vs Charlotte FC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "FC Cincinnati vs Nashville SC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Philadelphia Union vs Toronto FC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "New York Red Bulls vs Atlanta United",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "CF Montréal vs Vancouver Whitecaps",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Chicago Fire vs Columbus Crew",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Orlando City vs New England Revolution",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "DC United vs New York City FC",
+      "status": "NS",
+      "startTime": "2026-11-07 21:00",
+      "streams": []
+    },
+    {
+      "title": "Seattle Sounders vs Los Angeles FC",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Real Salt Lake vs LA Galaxy",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "FC Dallas vs Colorado Rapids",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Austin FC vs Portland Timbers",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "San Diego FC vs Sporting Kansas City",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Minnesota United vs San Jose Earthquakes",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "Houston Dynamo vs St. Louis City SC",
+      "status": "NS",
+      "startTime": "2026-11-08 00:00",
+      "streams": []
+    },
+    {
+      "title": "New Zealand vs India",
+      "status": "NS",
+      "startTime": "2026-11-12 06:00",
+      "streams": []
+    },
+    {
+      "title": "Singapore vs Paraguay",
+      "status": "NS",
+      "startTime": "2026-11-13 12:00",
+      "streams": []
+    },
+    {
+      "title": "Qatar vs Australia",
+      "status": "NS",
+      "startTime": "2026-11-13 14:45",
+      "streams": []
+    },
+    {
+      "title": "Jordan vs Indonesia",
+      "status": "NS",
+      "startTime": "2026-11-13 18:00",
+      "streams": []
+    },
+    {
+      "title": "Colombia vs Chile",
+      "status": "NS",
+      "startTime": "2026-11-13 21:00",
+      "streams": []
+    },
+    {
+      "title": "Japan vs Brazil",
+      "status": "NS",
+      "startTime": "2026-11-14 10:15",
+      "streams": []
+    },
+    {
+      "title": "América Mineiro vs Avaí",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Atlético Goianiense vs Cuiabá",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "CRB vs Ceará",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Criciúma vs Novorizontino",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Fortaleza vs Vila Nova",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Juventude vs Botafogo-SP",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Londrina vs Náutico",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Ponte Preta vs Operário Ferroviário",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "São Bernardo vs Athletic Club-MG",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "Sport Recife vs Goiás",
+      "status": "NS",
+      "startTime": "2026-11-14 20:00",
+      "streams": []
+    },
+    {
+      "title": "New Zealand vs India",
+      "status": "NS",
+      "startTime": "2026-11-15 03:00",
+      "streams": []
+    },
+    {
+      "title": "Andorra vs Azerbaijan",
+      "status": "NS",
+      "startTime": "2026-11-16 13:00",
+      "streams": []
+    },
+    {
+      "title": "Singapore vs Brazil",
+      "status": "NS",
+      "startTime": "2026-11-17 10:00",
+      "streams": []
+    },
+    {
+      "title": "Japan vs Paraguay",
+      "status": "NS",
+      "startTime": "2026-11-17 13:00",
+      "streams": []
+    },
+    {
+      "title": "Jordan vs Australia",
+      "status": "NS",
+      "startTime": "2026-11-17 18:00",
+      "streams": []
+    },
+    {
+      "title": "Chile vs Colombia",
+      "status": "NS",
+      "startTime": "2026-11-17 21:00",
+      "streams": []
+    },
+    {
+      "title": "Inter Milan vs Lazio",
+      "status": "NS",
+      "startTime": "2026-12-22 20:00",
+      "streams": []
+    }
+  ]
+}
